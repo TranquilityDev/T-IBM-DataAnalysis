@@ -42,7 +42,7 @@ lupus(0,537, function(n) {
 				console.log('error:', err);
 			else
 				console.log(JSON.stringify(response, null, 2));
-					fs.writeFile('D:/TempData/'+TeachersName[n]+'entities.json',JSON.stringify(response, null, 20),function(err) {
+					fs.writeFile('/home/user/Tranquility/Temp-Data/'+TeachersName[n]+'entities.json',JSON.stringify(response, null, 20),function(err) {
 					if (err) {
 					   return console.error(err);
 					}
@@ -62,7 +62,7 @@ alchemy_language.concepts(parameters[n], function (err, response) {
 		console.log('error:', err);
 	else
 		console.log(JSON.stringify(response, null, 2));
-						fs.writeFile('D:/TempData/'+TeachersName[n]+'concepts.json',JSON.stringify(response, null, 20),function(err) {
+						fs.writeFile('/home/user/Tranquility/Temp-Data/'+TeachersName[n]+'concepts.json',JSON.stringify(response, null, 20),function(err) {
 					if (err) {
 					   return console.error(err);
 					}
@@ -86,7 +86,7 @@ alchemy_language.keywords(parameters[n], function (err, response) {
 	else
 		console.log(JSON.stringify(response, null, 20));
 	
-					fs.writeFile('D:/TempData/'+TeachersName[n]+'keywords.json',JSON.stringify(response, null, 20),function(err) {
+					fs.writeFile('/home/user/Tranquility/Temp-Data/'+TeachersName[n]+'keywords.json',JSON.stringify(response, null, 20),function(err) {
 					if (err) {
 					   return console.error(err);
 					}
@@ -111,7 +111,7 @@ alchemy_language.taxonomy(parameters[n], function (err, response) {
 		console.log(JSON.stringify(response, null, 2));
 	
 
-					fs.writeFile('D:/TempData/'+TeachersName[n]+'taxonomy.json',JSON.stringify(response, null, 20),function(err) {
+					fs.writeFile('/home/user/Tranquility/Temp-Data/'+TeachersName[n]+'taxonomy.json',JSON.stringify(response, null, 20),function(err) {
 					if (err) {
 					   return console.error(err);
 					}
@@ -134,7 +134,7 @@ alchemy_language.emotion(parameters[n], function (err, response) {
 		console.log('error:', err);
 	else
 		console.log(JSON.stringify(response, null, 2));
-						fs.writeFile('D:/TempData/'+TeachersName[n]+'emotion.json',JSON.stringify(response, null, 20),function(err) {
+						fs.writeFile('/home/user/Tranquility/Temp-Data/'+TeachersName[n]+'emotion.json',JSON.stringify(response, null, 20),function(err) {
 					if (err) {
 					   return console.error(err);
 					}
@@ -157,7 +157,7 @@ alchemy_language.sentiment(parameters[n], function (err, response) {
 		console.log('error:', err);
 	else
 		console.log(JSON.stringify(response, null, 2));
-							fs.writeFile('D:/TempData/'+TeachersName[n]+'sentiment.json',JSON.stringify(response, null, 20),function(err) {
+							fs.writeFile('/home/user/Tranquility/Temp-Data/'+TeachersName[n]+'sentiment.json',JSON.stringify(response, null, 20),function(err) {
 					if (err) {
 					   return console.error(err);
 					}
@@ -177,7 +177,7 @@ alchemy_language.relations(parameters[n], function (err, response) {
 		console.log('error:', err);
 	else
 		console.log(JSON.stringify(response, null, 2));
-								fs.writeFile('D:/TempData/'+TeachersName[n]+'relations.json',JSON.stringify(response, null, 20),function(err) {
+								fs.writeFile('/home/user/Tranquility/Temp-Data/'+TeachersName[n]+'relations.json',JSON.stringify(response, null, 20),function(err) {
 					if (err) {
 					   return console.error(err);
 					}
@@ -199,7 +199,7 @@ alchemy_language.typedRelations(parameters[n], function (err, response) {
 	else
 		console.log(JSON.stringify(response, null, 2));
 	
-					fs.writeFile('D:/TempData/'+TeachersName[n]+'typedRelations.json',JSON.stringify(response, null, 20),function(err) {
+					fs.writeFile('/home/user/Tranquility/Temp-Data/'+TeachersName[n]+'typedRelations.json',JSON.stringify(response, null, 20),function(err) {
 					if (err) {
 					   return console.error(err);
 					}
