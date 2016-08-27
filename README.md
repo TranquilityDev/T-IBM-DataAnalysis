@@ -8,7 +8,7 @@ TTTTTTTTTTT TTTT   TTTT    TT T T TT TT TT TT TT TTT TTTTTT TTTT TTTTTT TTTTTTTT
 TTTTTTTTTTT TTTT TT  TT TT TT TT  TTTT  TTT  TT   TT    TT   TTT TTTTTT TTTTTTTTTTTTTTTTT
 
 
-Using IBA database to analyze FCU teachers, got each one's Entities,Keywords,Concepts,Taxonomy,Document Emotion,Targeted Emotion,Document Sentiment,Targeted Sentiment,Typed Relations,Relations
+Using IBA database to analyze FCU teachers, got each one's Entities,Keywords,Concepts,Taxonomy,Document Emotion,Targeted Emotion,Document Sentiment,Targeted Sentiment,Typed Relations,Relations from their articles.
 
 
 
