@@ -14,7 +14,7 @@ Using IBA database to analyze FCU teachers, got each one's Entities,Keywords,Con
 
 
 
-
+There r many Taiwanese...can't be read...., I need to see total array by myself ..... @ @
 
 
 
