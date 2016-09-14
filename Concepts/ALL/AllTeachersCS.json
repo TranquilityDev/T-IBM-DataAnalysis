@@ -1,0 +1,1638 @@
+// 0 //
+
+
+var 曹秀惠CS = [
+"Enterprise resource planning Capital" 
+];
+var 陳光政CS = [
+"Management Finance Scientific method" 
+];
+var 江向才CS = [
+"Financial statements Finance Economics Management Activity-based costing Taichung Taiwan Province Financial statement analysis" 
+];
+var 高惠松CS = [
+"Corporate governance International Financial Reporting Standards Financial statements Policy Initial public offering Public company Decision theory Stock market" 
+];
+var 黃娟娟CS = [
+];
+var 康淑珍CS = [
+"Management Business Environment Environment" 
+];
+var 林嬌能CS = [
+"Progressive tax Income tax Management Taxation Income Taxation in the United States Regressive tax Proportional tax" 
+];
+var 施念恕CS = [
+"Evaluation Value investing Sociology Investment Finance Investor profile Selection Company" 
+];
+var 盧鈺欣CS = [
+"Computer Computer program Management Data mining Project management Systems engineering Machine code Data" 
+];
+var 翁慈青CS = [
+"Management Corporation Board of directors Corporate governance Accountancy" 
+];
+var 蕭子誼CS = [
+"Finance Balance sheet Management accounting Investment Economics Asset Taxation in the United States Financial statements" 
+];
+var 王光華CS = [
+"Stock market Corporate governance Finance Stock Rate of return Share price Empirical research Generally Accepted Accounting Principles" 
+];
+var 王漢民CS = [
+"Finance Economics Investment Corporate finance Management Financial statements Risk Capital structure" 
+];
+var 鄭竹君CS = [
+"Tax Public finance Tax incidence Finance Pension Pigovian tax Taxation Deficit" 
+];
+var 鄭佩玉CS = [
+"Theory Explanation Accountancy Scientific method" 
+];
+var 張森河CS = [
+"Management accounting Finance Economics Financial statements" 
+];
+var 吳東憲CS = [
+"Internal control Auditing Internal audit Financial audit Audit Systems engineering Effectiveness Effect" 
+];
+
+
+
+
+
+// 1 //
+
+var 陳俊卿CS = [
+"Economics Macroeconomics Finance Bank Interest rate Microeconomics Investment Bond" 
+];
+var 韓宜CS = [
+"Management Sociology Strategic management House Business Public administration Process management Governance" 
+];
+var 黃焜煌CS = [
+"Statistics Artificial intelligence Electronic commerce Time series Marketing Neuro-fuzzy Neural network Fuzzy logic" 
+];
+var 江怡蒨CS = [
+"Working capital Cash conversion cycle Management Currency Business Cash Corporate finance Cash flow" 
+];
+var 寇敦智CS = [
+"Supply chain management Distribution Management Marketing Logistics Business Supply chain Marketing management" 
+];
+var 林呈昱CS = [
+"Marketing Business Retailing Product Sales Store manager Distribution Manufacturing" 
+];
+var 劉翁昆CS = [
+"Marketing Trade Southeast Asia Project management University Food industry William Shatner" 
+];
+var 邱世寬CS = [
+"Management Business Case study Qualitative research Scientific method Corporate governance Governance Social responsibility" 
+];
+var 王若愚CS = [
+"Time series Economics terminology Market microstructure Time series analysis" 
+];
+var 羅芳怡CS = [
+"Management Strategic management Corporation Business Organization Business terms Management consulting Strategic planning" 
+];
+var 梁馨予CS = [
+"Bank Finance Bank run Economics Investment Commercial bank Corporate governance Scientific method" 
+];
+var 吳廣文CS = [
+"Marketing Internet marketing Economics terminology Management Service Economics Good Target market" 
+];
+var 吳文臨CS = [
+"Investment Finance Bond Risk Personal finance Corporate finance Actuarial science Capital" 
+];
+var 楊明憲CS = [
+"International trade Economics International economics Evaluation methods Investment Comparative advantage Macroeconomics Trade" 
+];
+var 徐瑞玲CS = [
+"Corporate social responsibility Social responsibility International trade Test Taiwan Trade Best practice Socially responsible investing" 
+];
+var 許鈺珮CS = [
+"Economics Research and development Innovation Patent International trade Research Chess Scientific method" 
+];
+var 邱安安CS = [
+"Cost-benefit analysis International trade Economics Cost Investment Evaluation methods Costs Macroeconomics" 
+];
+var 黃秀英CS = [
+"Brand Brand management Branding Graphic design Exploratory research Affect" 
+];
+
+
+// 2 //
+
+
+var 曾子耘CS = [
+"Investment Corporate governance Management Business ethics Governance Corporation Economics Macroeconomics" 
+];
+var 黃定遠CS = [
+"Pension Economics Tax Autonomy Welfare economics Market failure Public choice theory Investment" 
+];
+var 黃瓊如CS = [
+"Economics Tax Public finance Insurance Scientific method Macroeconomics Government budget Finance" 
+];
+var 賴炎卿CS = [
+"Education Management Curriculum Entrepreneurship College Higher education Business plan Project management" 
+];
+var 吳朝欽CS = [
+"Tax Management Operations research Scientific method Statistics Taxation Macroeconomics Data" 
+];
+var 謝耀智CS = [
+"Tax haven Tax law Tax Public finance Tax incidence Deficit Finance Fiscal incidence" 
+];
+var 許慧雯CS = [
+"Management Finance Governance Corporate governance Business ethics Investment Risk management Risk" 
+];
+var 陳盛通CS = [
+"Economics Energy conservation Management Econometrics Macroeconomics Investment Economic growth Energy policy" 
+];
+var 游慧光CS = [
+"Time series Economics Regression analysis Public finance Prediction Scientific method Future Tax" 
+];
+var 何艷宏CS = [
+"Insurance Economics Underwriting Scientific method Tax Empiricism Empirical research Public finance" 
+];
+var 洪國仁CS = [
+"Tax law Tax Income tax Tax haven Property Taxation in the United States Finance Tax refund" 
+];
+
+
+
+// 3 //
+
+var 陳聖賢CS = [
+"Finance Investment Personal finance Bond Capital Risk Corporate finance Capital structure" 
+];
+var 江宜芳CS = [
+"Cognition" 
+];
+var 李桂秋CS = [
+"Economics Business Microeconomics Cooperative Macroeconomics Friedrich Wilhelm Raiffeisen Scientific method Finance" 
+];
+var 翟本瑞CS = [
+"Sociology Anthropology Creativity Research Research and development Culture Cultural anthropology Structuralism" 
+];
+var 林瑞發CS = [
+"Domestic violence Management Sociology Child abuse Violence Chinese mythology Business ethics People skills" 
+];
+var 楊坤鋒CS = [
+"Management Business Marketing Cooperative Plan Planning Strategic management Agriculture" 
+];
+var 于躍門CS = [
+"Business Management Business ethics Strategic management Non-profit organization Organization Plan Planning" 
+];
+var 劉文榮CS = [
+"Economics Stock market Autoregressive conditional heteroskedasticity Cooperative Dividend Credit union Scientific method Stock exchange" 
+];
+var 汪浩CS = [
+"Management Business Cooperative Business ethics Organization Non-profit organization Scientific method Marketing" 
+];
+var 吳肇展CS = [
+"Management Organization Business Non-profit organization Strategic management Types of organization Cooperative Marketing" 
+];
+
+
+
+// 4 //
+
+var 陳婉淑CS = [
+"Bayesian inference Regression analysis Bayes factor Time series Statistical inference Bayesian statistics Statistics Time series analysis" 
+];
+var 高秀蘭CS = [
+"Statistics Analysis of variance Regression analysis Resampling" 
+];
+var 李燊銘CS = [
+"Statistics Regression analysis Mathematics Estimation theory Actuarial science Estimation Epidemiology Data" 
+];
+var 王婉倫CS = [
+"Likelihood function Maximum likelihood Scientific method Multivariate statistics Statistical inference Bayesian inference Regression analysis Statistics" 
+];
+var 吳進家CS = [
+"Optimization Research Mathematical optimization Operations research Production system Maxima and minima Research and development" 
+];
+var 吳榮彬CS = [
+"Statistics Regression analysis Estimation Mathematics Sampling Logic Data Cumulative distribution function" 
+];
+var 鍾冬川CS = [
+"Natural selection Biology Evolution Molecular biology Selection Statistical theory Population genetics Phylogenetics" 
+];
+var 賴崑榮CS = [
+"Statistics Engineering Actuarial science Business Insurance Mathematics Fields of application of statistics Commercial law" 
+];
+var 李文CS = [
+"Statistics Normal distribution Natural selection Probability theory Production system Production line Scheduling Manufacturing" 
+];
+var 林麗芬CS = [
+"Insurance Statistics Actuarial science Scientific method Approximation Estimation Actuary Risk management" 
+];
+var 王聖CS = [
+"Statistics Mathematics Exercise Scientific method Sample size Physician People's Republic of China Official statistics" 
+];
+var 林文欽CS = [
+"Design of experiments Statistics Experiment Mathematics Applied mathematics Optimization Evaluation methods Regression analysis" 
+];
+var 林哲彥CS = [
+"Statistics Mathematics Scientific method Customer relationship management Data Applied mathematics Multivariate statistics Pattern recognition" 
+];
+
+
+
+// 5 //
+
+
+var 陳瓊怜CS = [
+"Scientific method Purchasing power parity Autoregressive conditional heteroskedasticity Implied volatility Stock exchange Econometrics Time series Economics" 
+];
+
+var 郭祐誠CS = [
+"High school Education College School Middle school Social sciences Secondary school Teacher" 
+];
+var 胡士文CS = [
+"Inflation Economy Economic growth Economics Macroeconomics Economic development Monetary policy Central bank" 
+];
+var 方文碩CS = [
+"Economics International trade Macroeconomics Business cycle Trade Central bank Stock market Export" 
+];
+
+var 李文傳CS = [
+"Economics Transaction cost Social sciences Cost Economic growth Ronald Coase Theory of the firm Property rights" 
+];
+
+var 王平CS = [
+"Economics Economic growth Development economics Macroeconomics Commodity money Economic development Money supply Money" 
+];
+var 王葳CS = [
+"Economics Stock market Macroeconomics Inflation Economy Utility Economic growth Stock" 
+];
+var 吳紀瑩CS = [
+"Microeconomics Economics Airline Perfect competition Low-cost carrier Monopoly Southwest Airlines Oligopoly" 
+];
+var 徐繼達CS = [
+"Economics Macroeconomics Microeconomics Social sciences Economy Unemployment Perfect competition" 
+];
+
+var 鄒繼礎CS = [
+"Psychology Economics Capital accumulation Education Economic growth Developmental psychology South Korea Investment" 
+];
+
+var 彭德昭CS = [
+"Economics Bank Scientific method Credit union Free market Microeconomics Economic system Standard Poor's" 
+];
+
+
+
+// 6 //
+
+
+var 曾欽正CS = [
+"Data Data mining Information Project management Knowledge management Information management Evaluation" 
+];
+var 陳建文CS = [
+"Marketing Statistics Psychology Management Renewable energy Data analysis Customer relationship management Energy" 
+];
+var 劉平文CS = [
+"Organization Strategic management Business Management Knowledge management Organizational studies Science Scientific method" 
+];
+var 黃文柔CS = [
+"Psychology Organization Developmental psychology Educational psychology" 
+];
+var 邱英雄CS = [
+"Management Strategic management Human resource management Business Leadership Resource allocation Resource management Human resources" 
+];
+var 吳如娟CS = [
+"Project management Management Enterprise resource planning Knowledge management Creativity Knowledge Business Economics" 
+];
+var 蕭國鐘CS = [
+"Business ethics Management Corporate governance Business Governance Leadership Social responsibility Strategic management" 
+];
+var 徐重仁CS = [
+"Marketing Marketing management Distribution" 
+];
+var 張寶蓉CS = [
+"Strategic management Business Management Innovation Film Entrepreneurship Invention Peter Drucker" 
+];
+var 張美燕CS = [
+"Organization Management Science Economics Operations research Scientific method Organizational studies" 
+];
+var 張秀樺CS = [
+"Marketing Internet marketing Affiliate marketing Marketing ethics" 
+];
+var 滿肇怡CS = [
+"Finance Computer-aided design" 
+];
+var 王智弘CS = [
+"Brand Advertising Business Marketing Branding Professional sports Brand management Branding companies" 
+];
+var 許士軍CS = [
+"Management Business Scientific method Strategic management Organization Research Innovation Marketing research" 
+];
+var 鄭孟育CS = [
+"Social network Organization Sociology Research Management Knowledge management Network theory Psychology" 
+];
+
+
+
+
+
+// 7 //
+
+var 丁美靜CS = [
+"Advertising Time management Marketing Graphic design Brand Procrastination" 
+];
+var 李元恕CS = [
+"Marketing Customer relationship management Business Pricing Price Advertising Social responsibility Socially responsible investing" 
+];
+var 何晉瑋CS = [
+"Marketing Brand Branding Scientific method Brand management Advertising Market research Marketing research" 
+];
+var 簡士超CS = [
+"Marketing Customer relationship management Marketing research Business Relationship marketing Market research Republic of China Sociology" 
+];
+var 王婉禎CS = [
+"Advertising Marketing Advertising slogan" 
+];
+var 凱達西CS = [
+"Asset Marketing" 
+];
+var 王郁彬CS = [
+"Marketing Services marketing Business" 
+];
+var 林志皇CS = [
+"Marketing Business Psychology Marketing management Advertising" 
+];
+var 彭德湘CS = [
+"Management" 
+];
+
+
+
+// 8 //
+
+var 蔡忠杓CS = [
+"Science Scientific method Technology Research Project management Engineering Mathematics Research and development" 
+];
+var 成銘德CS = [
+"Hydraulics Mechanical engineering Hydraulic machinery Fluid dynamics Piston Hydraulic cylinder Fluid power Pneumatics" 
+];
+var 戴國政CS = [
+"Research and development Research Printed circuit board Innovation Wire Iron Industry Science" 
+];
+var 鄧錦坤CS = [
+"Mechanical engineering Scientific method Electrical engineering Engineering Volume Electronics Fluid power Computer" 
+];
+var 洪榮洲CS = [
+"Electrochemistry Electrolysis Aluminium Machining Research and development Iron Electrochemical cell Electrical discharge machining" 
+];
+var 黃錦煌CS = [
+"Microphone Piezoelectricity Transducer Bone Composite material Magnetic field Finite element method Magnetostriction" 
+];
+var 黃宗立CS = [
+"Solid mechanics Tensile strength Strength of materials Materials science Metal Plastic Aluminium Deformation" 
+];
+var 林浩庭CS = [
+"Robotics Sensor Engineering Control theory Servomechanism Electrical engineering Hydraulics Scientific method" 
+];
+var 林源堂CS = [
+"Fluid dynamics Root Dance Science Experiment Scientific method Technology Sphere" 
+];
+var 劉明山CS = [
+"Computer-aided design Plastic Fluid dynamics Moldmaker Computational fluid dynamics Convection Computer-aided engineering Injection molding" 
+];
+var 劉顯光CS = [
+"Composite material Carbon fiber Metal matrix composite Composite materials Materials science Pykrete Fracture mechanics Reinforced concrete" 
+];
+var 彭信舒CS = [
+"Injection molding Plastic Innovation Research and development Plastics industry Blow molding Moldmaker Research" 
+];
+var 王啟昌CS = [
+"Heat Temperature Energy Machine tool Numerical analysis Thermodynamics Lighting Research and development" 
+];
+var 楊榮顯CS = [
+"Cast iron Iron Ductile iron Aluminium Materials science Steel Recyclable materials Foundry" 
+];
+var 林孟儒CS = [
+"Lens Thin film Continuum mechanics Optics Waviness Materials science Scientific method Focus" 
+];
+var 羅致卿CS = [
+"Numerical control Automation Milling machine Computer-aided manufacturing Control theory Machine tool G-code Screw machine" 
+];
+var 蕭肇殷CS = [
+"Scientific method Empiricism Air suspension Volume Empirical research Science Control theory Research" 
+];
+var 朱智義CS = [
+"Finite element method Boundary element method Muffler Internal combustion engine Steam locomotive Unmanned aerial vehicle Numerical differential equations Exhaust system" 
+];
+var 張文政CS = [
+"Heat transfer Fluid dynamics Convection Heat Thermodynamics Chemical engineering Thermal contact conductance Mass flow rate" 
+];
+var 楊世宏CS = [
+"Research and development Scientific method Automation Industry Research Machine learning Innovation Robot" 
+];
+
+
+
+// 9 //
+
+var 蔡昆CS = [
+"Weaving Aramid Materials science Carbon fiber Tensile strength Kevlar Bone Fiberglass" 
+];
+var 蔡宜壽CS = [
+"Field emission display Lithium-ion battery Nanotechnology Nanomaterials Carbon Carbon nanotube Flat panel display Lithium" 
+];
+
+var 廖盛焜CS = [
+"Dyes Dye Textile Nylon Carbon dioxide Supercritical fluid Solvent Cotton" 
+];
+
+var 鄭國彬CS = [
+"Design Cotton Industry Composite material Dietary fiber Programming language Engineering Industrial society" 
+];
+
+
+
+
+// 10 //
+
+var 陳亭志CS = [
+"Future Forecasting Artificial intelligence Project management Planning Cloud computing Neural network Fuzzy logic" 
+];
+var 陳正芳CS = [
+"Logistics Planning Management Algorithm Manufacturing Artificial intelligence Dimension Heuristic" 
+];
+var 郭修暐CS = [
+"Technology Management Supply chain management Enterprise resource planning Production and manufacturing Technology Management Systems engineering Science" 
+];
+var 白志祥CS = [
+"Tanning Sewage treatment" 
+];
+var 蔣安國CS = [
+"Quality control Systems engineering Quality Management Statistics Operations research Resistor Process management" 
+];
+var 李明賢CS = [
+"Quality management Taguchi methods Quality control Quality assurance Manufacturing ISO 9000 Quality management system Six Sigma" 
+];
+var 洪明傳CS = [
+"Supply chain management Management Logistics Production and manufacturing Industry Systems engineering Digital content creation Supply chain" 
+];
+var 曾明哲CS = [
+"Research Manufacturing Engineering Industrial design Mass customization Research associate Design Academic administration" 
+];
+var 林暘桂CS = [
+"Algorithm Parallel algorithm Operations research Applied mathematics Parallel computing Mathematical optimization Ant colony optimization Problem solving" 
+];
+var 盧銘勳CS = [
+"Industry Operations management Scientific method Operations research Manufacturing Engineering Research Research and development" 
+];
+var 丘紀堇CS = [
+"Sculpture Art Packaging Installation art Aesthetics Chinese language Conceptual art Technology" 
+];
+var 唐國豪CS = [
+"User interface Manufacturing Industry Human factors Display technology Human–computer interaction Human-computer interaction Operations management" 
+];
+var 王逸琦CS = [
+"Manufacturing Lean manufacturing Supply chain management Ant colony optimization Supply chain Management Six Sigma Production and manufacturing" 
+];
+var 吳美芳CS = [
+"Management accounting Activity-based costing Cost accounting Cost Knowledge management Costs Project management Operations research" 
+];
+var 蕭堯仁CS = [
+"Decision support system Manufacturing Value chain Decision theory Measurement Preventive maintenance Decision engineering Project management" 
+];
+var 葉忠CS = [
+"Management Supply chain management Logistics Procurement Operations management Supply chain Technology Knowledge management" 
+];
+var 鄭豐聰CS = [
+"Process management Industry Management Manufacturing Research and development Project management Six Sigma Supply chain" 
+];
+var 莊文傑CS = [
+"Decision support system Innovation Manufacturing Decision theory Management Research and development Data warehouse Knowledge engineering" 
+];
+var 劉浚明CS = [
+"Supply chain management Management Logistics Operations management Operations research Project management Manufacturing Scientific method" 
+];
+var 林棋瑋CS = [
+"Manufacturing Genetic algorithm United Nations" 
+];
+var 林棋瑋CS = [
+"Manufacturing Genetic algorithm United Nations" 
+];
+
+// 11 //
+
+var 曾怡享CS = [
+"Nitrogen Oxygen Polymer Carbon dioxide Titanium dioxide Metal Carbon Zinc" 
+];
+var 陳奎佑CS = [
+"Diode Transistor Semiconductor Germanium Solar cell P-n junction Electron Light-emitting diode" 
+];
+var 陳奇中CS = [
+"Control theory Control engineering Process control Engineering Sliding mode control Chemical engineering Operations research Fuzzy logic" 
+];
+var 陳志賢CS = [
+"Polymer Protein Photon Monomer Polymer chemistry Chemistry Copolymer Chemical reaction" 
+];
+var 林屏杰CS = [
+"Hydrogen production Anaerobic digestion Hydrogen Ethanol Dark fermentation Biological hydrogen production Fermentative hydrogen production Biohydrogen" 
+];
+var 林永森CS = [
+"Thin film Research and development Optics Electrochromism Packaging and labeling Oxygen Gas Unit load" 
+];
+var 施志欣CS = [
+"ELISA Assay Immunoassay Blood ELISPOT Compact Disc Antibody Eva Engvall" 
+];
+var 翁于晴CS = [
+"Redox Catalysis Electrochemistry Electrolysis Hydrogen Fuel cell Nitrogen Hydrogenation" 
+];
+var 吳石乙CS = [
+"Hydrogen Anaerobic digestion Hydrogen production Ethanol Research and development Carbon dioxide Natural gas Sustainable technologies" 
+];
+var 許健興CS = [
+"Hydrogen storage Electrochemistry Hydride Silicon Electrolyte Water Corrosion Chemistry" 
+];
+var 袁維勵CS = [
+"Hydrogen storage Hydrogen Flat panel display Oxygen Hydride Sol-gel Manufacturing Polymer" 
+];
+var 詹志潔CS = [
+"Titanium dioxide Emulsion Crystal Ester Taguchi methods Photonic crystal Chemical engineering Chemistry" 
+];
+var 張棋榕CS = [
+"Materials science Polymer Ink Inkjet printer Light Carbon fiber Oxygen Titanium dioxide" 
+];
+var 張振昌CS = [
+"Hydrogen Carbon monoxide Fuel cell Oxygen Catalysis Carbon dioxide Biofuel Hydrogen production" 
+];
+var 趙雲鵬CS = [
+"Metabolism Protein DNA Biotechnology Bacteria Gene expression Gene Molecular biology" 
+];
+var 朱侯憲CS = [
+"Polymer Polymer chemistry Emulsion Radical polymerization Living polymerization Colloid Polyurethane Polymerization" 
+];
+
+
+// 12 //
+
+var 陳啟川CS = [
+"Control theory Estimation theory Mathematics Kalman filter Estimator Signal processing Systems engineering Robotics" 
+];
+var 陳重德CS = [
+"Piezoelectricity Finite element method Engineering Continuum mechanics Partial differential equation Transducer Hilbert space Energy harvesting" 
+];
+var 黃振鴻CS = [
+"Multidisciplinary design optimization Evaluation Assessment Multiobjective optimization Industry Science Algorithm Control system" 
+];
+var 郭文雄CS = [
+"Carbon fiber Composite material Carbon nanotube Materials science Graphite Metal matrix composite Carbon Glass-reinforced plastic" 
+];
+var 李永明CS = [
+"Computational fluid dynamics Finite element method Heat Heat engine Stirling engine Numerical differential equations Internal combustion engine Force" 
+];
+var 劉通敏CS = [
+"Printing Inkjet printer Gas turbine Ink Jet engine Turbine Gas compressor Aircraft engine" 
+];
+var 賴盈誌CS = [
+"Unmanned aerial vehicle Research and development Industry Unmanned vehicles Embedded system Technology Global Positioning System Embedded systems" 
+];
+var 方俊CS = [
+"Finite element method Numerical analysis Partial differential equation Viscosity Axial compressor Fluid mechanics Fluid dynamics Turbine" 
+];
+var 宋齊有CS = [
+"Fluid dynamics Heat Heat transfer Fuel cell Chemical engineering Proton exchange membrane fuel cell Energy development Fluid mechanics" 
+];
+var 葉俊良CS = [
+"Chemistry Metal Ceramic Solid solution Solubility Experiment Gas Solid" 
+];
+var 鄭仙志CS = [
+"Finite element method Continuum mechanics Finite element method in structural mechanics Partial differential equation Discrete element method Engineering Packaging Structural engineering" 
+];
+var 楊瑞彬CS = [
+"Electromagnetic radiation Electromagnetic spectrum Materials science Electromagnetism Wave Frequency Light Radio" 
+];
+var 謝宗翰CS = [
+"Aerodynamics Supersonic Mach number Fundamental physics concepts Jet engine Fluid dynamics Hypersonic Shock wave" 
+];
+var 黃柏文CS = [
+"Fluid dynamics Computational fluid dynamics Jet engine Turbine Gas turbine Gas compressor Axial compressor Internal combustion engine" 
+];
+
+
+// 13 //
+
+var 蔡鈺鼎CS = [
+"Artificial intelligence Robotics Signal processing Computer vision Scientific method Optimization Fuzzy logic Electrical engineering" 
+];
+var 劉育成CS = [
+"Research Postdoctoral research Research and development Research associate Academic administration Education and training occupations Sound Industry" 
+];
+var 江懷海CS = [
+"Engineering Aerospace engineering Aerospace Astronautics" 
+];
+var 徐瑞宏CS = [
+"Gear Computer-aided design Gears Hobbing Computer Machine tools Numerical control Machine" 
+];
+
+
+
+// 14 //
+
+var 蔡明峰CS = [
+"Wireless Embedded system Telematics Enterprise application integration Remote control Database Emulator Carrier wave" 
+];
+var 陳啟鏘CS = [
+"Mathematics Fixed-point arithmetic Floating point Q Rounding Computer arithmetic Bit rate Computing" 
+];
+var 陳烈武CS = [
+"Wireless sensor network Sensor" 
+];
+var 陳青文CS = [
+"Embedded system Microprocessor Embedded systems Web browser Central processing unit PowerPC Forth Computer network" 
+];
+var 陳錫民CS = [
+"Software engineering Engineering Software testing Software architecture Software design Distributed computing Computer science Component-based software engineering" 
+];
+var 陳奕中CS = [
+"Artificial intelligence Database Database management systems Database management system Computer Neural network Artificial neural network" 
+];
+var 顧偉倫CS = [
+"Database Computer Computer science Computer program Software engineering Data model Engineering" 
+];
+var 洪維志CS = [
+"Computer network Wireless network" 
+];
+var 黃秋煌CS = [
+"RFID Computer software Electronic Product Code Engineering Application software Cloud computing Project management Auto-ID Labs" 
+];
+var 黃溪春CS = [
+"Programming language Java Computer program Natural language" 
+];
+var 黃秀芬CS = [
+"Graph theory Wireless sensor network Algorithm Sensor" 
+];
+var 黃志銘CS = [
+"Microprocessor Computer science Computer QNX Computing Wireless network Wi-Fi Wireless access point" 
+];
+var 陳德生CS = [
+"Microprocessor Software architecture Embedded system Microcontroller Central processing unit PowerPC Computer Digital signal processing" 
+];
+var 李榮三CS = [
+"Computer security Multimedia Password Computer Mobile Web Electronic commerce Information security Cryptography" 
+];
+var 李維斌CS = [
+"Cryptography Security Information security Authentication Key management Computer Digital rights management Cloud computing" 
+];
+var 林財寶CS = [
+"Digital systems Control theory Robotics Digital Honda Robot" 
+];
+var 劉宗杰CS = [
+"Policy Security Information security Distributed computing Network management Computer security Implementation Message passing" 
+];
+var 竇其仁CS = [
+"Wireless networking Wireless LAN Computer network Wireless network Wireless mesh network Mesh networking Wi-Fi Wireless access point" 
+];
+var 王益文CS = [
+"Microprocessor Cryptography Embedded system Software architecture Computer Microcontroller Design Real-time computing" 
+];
+var 蘇宗安CS = [
+"Database management system Database Database management systems Computer" 
+];
+var 林志敏CS = [
+"Operating system Linux kernel Application software System software Linux Computer Embedded system Computer software" 
+];
+var 薛念林CS = [
+"Software design Design Software engineering Software testing Software development process Application software Embedded system Software development" 
+];
+var 楊東麟CS = [
+"Data mining Computer Grid computing Data analysis Data warehouse Parallel computing Software engineering Technology" 
+];
+var 游景盛CS = [
+"Bioinformatics DNA Molecular biology Protein Cell biology Gene Systems biology Organism" 
+];
+var 徐弘洋CS = [
+"Central processing unit Microprocessor Computer architecture Instruction set Microcontroller ARM architecture Digital Equipment Corporation Mathematics" 
+];
+var 許芳榮CS = [
+"DNA Gene RNA Molecular biology Bioinformatics Genetics Protein RNA splicing" 
+];
+var 林明言CS = [
+"Streaming media Limit of a sequence Sequence Series Database Pattern Stream The Automatic" 
+];
+var 張貴忠CS = [
+"Embedded system Linux Microprocessor Windows Mobile Flash memory Real-time computing Microcontroller Central processing unit" 
+];
+
+
+// 15 //
+
+var 曹嶸CS = [
+"Magnetic field Fundamental physics concepts Magnetic flux Quantum mechanics Electromagnetic radiation Electromagnetic spectrum Maxwell's equations Polarization" 
+];
+var 沈昭元CS = [
+"Polarization Electromagnetic radiation Radio Antenna RFID ISM band Electromagnetic spectrum Wave propagation" 
+];
+var 何子儀CS = [
+"Electronic engineering Electrical engineering Electronic design automation Electronics Computer Embedded system Microprocessor Electromagnetic pulse" 
+];
+var 陳志強CS = [
+"Transmission line Microwave Electronic design Integrated circuit design Scientific method Antenna Waveguide Signal processing" 
+];
+var 黃思倫CS = [
+"Electric power Rail transport Electricity generation Transformer Nuclear power Rail tracks Third rail Battery" 
+];
+var 李企桓CS = [
+"Application software Computer software Materials science Diffraction grating Scientific method Wave Composite material Research and development" 
+];
+var 陳坤煌CS = [
+"Surface plasmon resonance Measurement Refractive index Optics Extraordinary optical transmission Metrology Systems of measurement Condensed matter physics" 
+];
+var 陳德請CS = [
+"Optics Light Laser Infrared Light-emitting diode Lens Electromagnetic radiation Focal length" 
+];
+var 劉文豐CS = [
+"Optical fiber Fiber Bragg grating Fiber-optic communication Laser Photonics Photonic crystal Sensors Photonic-crystal fiber" 
+];
+var 黃昌圳CS = [
+"Electric motor Stepper motor Brushless DC electric motor Electrical engineering Electric vehicle Electric motors AC motor Electromagnetism" 
+];
+var 田春林CS = [
+"Optical fiber Refractive index Optics Lens Thin film Measurement Photonic crystal Photonics" 
+];
+var 林榮松CS = [
+"Wireless Industrial society Wireless network" 
+];
+var 鄭進興CS = [
+"Optical fiber Control theory Electrical engineering Motor controller Rail transport Electricity Transducer Automation" 
+];
+var 梁寶芝CS = [
+"Liquid crystal Liquid crystal display Display technology Display resolution Crystal Electronic paper Pixel Polarizer" 
+];
+var 蘇恆毅CS = [
+"Units of measurement Measurement Power outage Metrology Dimensional analysis Phasor measurement unit Direct current Smart grid" 
+];
+var 王壘CS = [
+"Microprocessor Microcontroller Central processing unit Linux QNX Computer architecture Web browser Embedded system" 
+];
+
+
+// 16 //
+
+var 陳冠宏CS = [
+"Circuit design Integrated circuit design Research Electronic design automation Electronic engineering Video Video compression Electronics" 
+];
+var 陳家富CS = [
+"Solar cell Amorphous silicon Chemical vapor deposition Crystalline silicon Germanium Thin film solar cell Plasma display Photovoltaic module" 
+];
+var 陳坤志CS = [
+"Electronic design automation Integrated circuits Software architecture Engineering Electronic design Electronic engineering Sustainable design Integrated circuit design" 
+];
+var 李景松CS = [
+"Semiconductor Transistor Gallium arsenide Germanium Integrated circuit Gallium CMOS Diode" 
+];
+var 曾憲輝CS = [
+"Application-specific integrated circuit Bluetooth Modulation Cordless telephone Radio Integrated circuit Ultra-wideband Wireless" 
+];
+var 林成利CS = [
+"Integrated circuit Semiconductor Semiconductor device Silicon MOSFET Semiconductor device fabrication CMOS Transistor" 
+];
+var 劉漢胤CS = [
+"Diode Transistor Semiconductor Integrated circuit Silicon Germanium Oxygen Semiconductor device" 
+];
+var 簡鳳佐CS = [
+"Transistor MOSFET Semiconductor device Diode Integrated circuit Power MOSFET Power semiconductor device Semiconductor" 
+];
+var 劉俊傑CS = [
+"Transistor Integrated circuit MOSFET Electrostatic discharge Semiconductor Diode Semiconductor device Silicon" 
+];
+var 劉堂傑CS = [
+"Transistor Silicon Electronics Electronic engineering Liquid crystal Semiconductor Liquid crystal display Integrated circuit" 
+];
+var 康宗貴CS = [
+"Silicon Transistor Oxygen Dielectric Semiconductor Integrated circuit Amorphous silicon Wafer" 
+];
+var 王啟林CS = [
+"Integrated circuit Transistor Bipolar junction transistor MOSFET Electronic amplifier P-n junction Silicon Semiconductor" 
+];
+var 吳鴻璋CS = [
+"Electrical engineering Computer Engineering Digital signal processing Analog signal processing Electronic engineering Analog signal Electronics" 
+];
+var 吳重雨CS = [
+"Neural network Integrated circuit Electronic design" 
+];
+var 蕭敏學CS = [
+"Electronic engineering Integrated circuit Electronic design Electronic design automation Circuit design Electronics Computer engineering Experiment" 
+];
+var 許恒壽CS = [
+"Electronic engineering Data transmission Differential signaling Integrated circuit design Electronic design Semiconductor Low-voltage differential signaling Differential" 
+];
+var 楊炳章CS = [
+"Integrated circuit Semiconductor Measurement Psychometrics Silicon Semiconductor device Germanium Transistor" 
+];
+var 楊水源CS = [
+"Electronic engineering Mathematics Diode Silicon Integrated circuit PLECS Series and parallel circuits Transistor" 
+];
+var 楊文祿CS = [
+"Silicon Integrated circuit Semiconductor Semiconductor device Solar cell Semiconductor device fabrication Crystalline silicon Amorphous silicon" 
+];
+var 鄭經華CS = [
+"Design Electronic engineering Engineering Implementation Electronic design automation Design research Integrated circuits Minimally invasive" 
+];
+var 林宗志CS = [
+"Control theory Electrical engineering Robotics Integrated circuit Control engineering Electronic engineering Fuzzy logic Systems engineering" 
+];
+var 施仁斌CS = [
+"Superconductivity High-temperature superconductivity Thin film Magnetism BCS theory Magnetic field Research Solid" 
+];
+var 劉紹宗CS = [
+"Semiconductor device Integrated circuit Silicon Electronic engineering Oxygen Quantum mechanics Semiconductor Chemistry" 
+];
+
+
+
+// 17 //
+
+var 陳昶孝CS = [
+"Field-effect transistor Thermoelectric effect Materials science Thermodynamics Material" 
+];
+var 陳孝武CS = [
+"Control theory Partial differential equation Motion control Mathematics Digital signal processing Differential equation Servomechanism Robotics" 
+];
+var 洪三山CS = [
+"Control theory Control engineering Feedback Design PID controller Suspension Performance testing Fuzzy logic" 
+];
+var 黃建立CS = [
+"Control theory Control engineering Automation HVAC control system Process control PID controller Refrigeration Feedback" 
+];
+var 黃榮興CS = [
+"Control theory Engineering Technology Control engineering Motor system Operations research Real-time Control System Motor control" 
+];
+var 林宸生CS = [
+"Optics Light-emitting diode User interface Optical fiber Experiment Measurement Image processing Automation" 
+];
+var 林南州CS = [
+"Robotics Engineering Control theory Fuzzy logic Automation Scientific method Robot Control engineering" 
+];
+var 劉益瑞CS = [
+"Magnetic resonance imaging Medical imaging Diffusion MRI Image processing Neuroimaging Carbon dioxide Brain Radiology" 
+];
+var 林賢龍CS = [
+"Control theory Control system Feedback PID controller Process control Control engineering Respiratory system Automation" 
+];
+var 蘇文彬CS = [
+"Automation Control theory Control system Digital control Process control Motion control Control engineering" 
+];
+var 吳穎強CS = [
+"Robotics Robot Motion planning Automation Industrial robot Mechanics Evolutionary robotics Control system" 
+];
+var 林昱成CS = [
+"Control theory Research and development Research Systems engineering Control engineering Warning system Science Innovation" 
+];
+var 林育德CS = [
+"Heart Signal processing Measurement Electrical engineering Circulatory System Digital signal processing Blood Analog signal processing" 
+];
+var 張金堅CS = [
+"Medicine Cancer Surgery Death Colon Obesity Surgeon Plastic surgery" 
+];
+var 許煜亮CS = [
+"Control theory Input device Scientific method Old age Control engineering Psychology Signal processing Research" 
+];
+var 張興政CS = [
+"Control system Measurement Control theory Automation Measuring instrument Process control Feedback Microelectromechanical systems" 
+];
+var 邱創乾CS = [
+"Research Signal processing Medicine Speech recognition Digital signal processing Image processing Electrical engineering Pulse" 
+];
+var 鄒慶福CS = [
+"Diode Light-emitting diode Lighting Sensor Infrared LEd Optical fiber Semiconductor" 
+];
+var 謝哲光CS = [
+];
+var 張寧群CS = [
+"Computer graphics Engineering Fourier analysis Fourier series Electrical engineering Mathematical analysis Applied mathematics Mathematics" 
+];
+
+
+// 18 //
+
+var 陳家豪CS = [
+"Lighting Radio Integrated circuit design Circuit design Silicon Electromagnetic radiation Electronic engineering Vacuum tube" 
+];
+var 陳志瀅CS = [
+"Cryptography Electronic commerce Digital signature Scientific method Design Algorithm Mathematics RSA" 
+];
+var 翟本喬CS = [
+"Computer program Cloud computing Application software Computer software System software Computer algebra system" 
+];
+var 賴辰彥CS = [
+"Radio Mobile phone Bluetooth Information theory Cordless telephone Communication Telecommunication Data compression" 
+];
+var 陳益生CS = [
+"Signal processing Digital signal processing Wireless Estimation theory Mathematics Estimation Modulation Frequency-division multiplexing" 
+];
+var 林漢年CS = [
+"Radio Microwave Electronics Electromagnetism Wireless Heinrich Hertz Electronic engineering Maxwell's equations" 
+];
+var 林立謙CS = [
+"Video compression Digital video Video Image processing Optics H.264/MPEG-4 AVC Digital signal processing MPEG-4" 
+];
+var 林維崙CS = [
+"Direct-sequence spread spectrum Frequency-hopping spread spectrum Signal processing Spread spectrum Modulation Mathematics Code division multiple access Telecommunication theory" 
+];
+var 辛紹志CS = [
+"Electronic engineering Electronics Electrical engineering Electronic design automation Circuit design Engineering Computer Educational psychology" 
+];
+var 辛正和CS = [
+"Image processing Digital video Computer vision Video compression Digital image processing Digital signal processing Video Computer graphics" 
+];
+var 楊豐瑞CS = [
+"Computer network Digital signal processing Internet Protocol Electrical engineering Internet Parallel computing Digital electronics Signal processing" 
+];
+var 廖和恩CS = [
+"Digital signal processing Radio Cordless telephone Bluetooth Mobile phone Signal processing Digital filter Finite impulse response" 
+];
+var 廖時三CS = [
+"Band-stop filter Radio Band-pass filter Vacuum tube Microwave Integrated circuit design Wireless Filter" 
+];
+var 袁世一CS = [
+"Embedded system Real-time operating system Microprocessor Embedded systems VxWorks Microcontroller Real-time computing Forth" 
+];
+var 趙啟時CS = [
+"Mobile phone Network management Cellular network Computer network Networks Wireless network Diagnosis Telephone" 
+];
+var 朱嘯秋CS = [
+"Bluetooth Wireless Computer network Amateur radio Data transmission Wireless network ASCII Cordless telephone" 
+];
+var 鄒耀東CS = [
+"Embedded system Emulator Embedded systems Database Linux Middleware Wireless sensor network Application software" 
+];
+var 尤正祺CS = [
+"Radio Bluetooth Microwave Vacuum tube Mobile phone Cordless telephone Radio frequency antenna types Receiver" 
+];
+var 何滿龍CS = [
+"Radio Wireless Amateur radio Modulation Transmitter Nikola Tesla Receiver Bluetooth" 
+];
+
+
+// 19 //
+
+var 陳清標CS = [
+"Geodesy Cartography Geographic information system Surveying Global Positioning System Global navigation satellite system GPS Aerial photography" 
+];
+var 卜君平CS = [
+"Structural engineering Bridge Civil engineering Feedback Control theory Earthquake engineering Shock absorber Subroutine" 
+];
+var 康裕明CS = [
+"Civil engineering Infrastructure Nondestructive testing Research and development Electromagnetic radiation Radar Inspection Road" 
+];
+var 李秉乾CS = [
+"Earthquake engineering Structural engineering Civil engineering Engineering Research Project management Construction Management" 
+];
+var 廖為忠CS = [
+"Optical fiber Concrete Composite material Materials science Fracture mechanics Fracture toughness Compressive strength Test method" 
+];
+var 蔡崇興CS = [
+"Shock absorber Earthquake engineering Civil engineering Earthquake Building Structural engineering Tuned mass damper Vibration" 
+];
+var 黃逸萍CS = [
+"Civil engineering Computer graphics Computer Graphics Graphic design Computer-aided design Retaining wall Waste management" 
+];
+var 陳廣祥CS = [
+"Geotechnical engineering Soil compaction Finite element method Relative density Soil Geology Scientific method Erosion" 
+];
+var 林慶昌CS = [
+"Reinforced concrete Structural engineering Beam Earthquake engineering Concrete Engineering Prestressed concrete Reinforcement" 
+];
+var 林保宏CS = [
+"Project management Risk management Greenhouse gas Uncertainty Risk Construction Decision theory Carbon dioxide" 
+];
+var 林威延CS = [
+"Geographic information system Republic of China Open Geospatial Consortium Construction management Information Geography Cartography Decision theory" 
+];
+var 蘇人煇CS = [
+"Materials science Concrete Engineering Research Reinforced concrete Science Water management Applied research" 
+];
+var 許澤善CS = [
+"Soil mechanics Geotechnical engineering Civil engineering Engineering Professional Engineer Geology Slope stability Shear strength" 
+];
+var 王起平CS = [
+"Chemistry Composite material Fiberglass Research Science Epoxy Experiment Chemical substance" 
+];
+var 林正紋CS = [
+"Computer-aided design Structural engineering Computer-aided engineering Structural health monitoring Management Control theory Systems engineering Engineering" 
+];
+var 張志超CS = [
+"Finite element method Partial differential equation Numerical analysis Concrete Direct stiffness method Rebar Engineering Structural analysis" 
+];
+var 張智元CS = [
+"Project management Construction Real estate Management Building Architect House Facility management" 
+];
+
+
+// 20 //
+
+var 陳昶憲CS = [
+"Hydrology Water Water management Water supply Water pollution Management Water resources Surface water" 
+];
+var 陳憲宗CS = [
+"Hydrology Climate change Flood Water Weather Tropical cyclone Future Precipitation" 
+];
+var 李漢鏗CS = [
+"Water Water pollution Hydrology Water supply Sustainability Drainage basin Water management Management" 
+];
+var 蘇惠珍CS = [
+"Hydrology Water management Water resources Climate Water supply Water Weather Drainage basin" 
+];
+var 連惠邦CS = [
+"Research Geomorphology Surface runoff Erosion Soil River Stream Hydrology" 
+];
+var 廖清標CS = [
+"Fluid dynamics Vortex Computational fluid dynamics Hydrology Dam Flood Computer simulation Fluid mechanics" 
+];
+var 許少華CS = [
+"Sediment Hydrology Water Water management Water pollution Surface runoff Sediment transport Geomorphology" 
+];
+var 許盈松CS = [
+"Water management Hydrology Water Sediment Water resources Geomorphology Water supply River" 
+];
+var 許裕雄CS = [
+"Hydraulic engineering Hydraulics Mechanical engineering River Environmental engineering" 
+];
+var 楊朝仲CS = [
+"Project management Management Operations research Systems engineering Systems thinking Problem solving Systems theory Teacher" 
+];
+var 王傳益CS = [
+"Sediment Geomorphology Stream Sediment transport Drainage Hydrology Water Surface runoff" 
+];
+var 葉昭憲CS = [
+"Hydrology Water Drainage basin Management Reservoir Conservation authority Watershed management Water management" 
+];
+var 鄭仙偉CS = [
+"Fluid dynamics Viscosity Force Fluid Reynolds number Drag Lift Computational fluid dynamics" 
+];
+var 劉建榮CS = [
+"Water Hydrology Erosion River Research Sediment Water pollution Sand" 
+];
+var 吳俊鋐CS = [
+"Geomorphology Erosion Water Sediment Emergency evacuation Sand Sediment transport Drainage basin" 
+];
+var 張嘉玲CS = [
+"Drainage basin Hydrology Water Water purification Water pollution Management Water management Environmental science" 
+];
+
+// 21 //
+
+
+// 22 //
+
+var 高孟定CS = [
+"City Project management Plan Urban design Sustainability Urban studies and planning Urban planning Planning" 
+];
+var 高豫麒CS = [
+"Geodesy Surveying Earth Water Geodetic system Global Positioning System Civil engineering Research" 
+];
+var 雷祖強CS = [
+"Remote sensing Geographic information system Hydrology Geography Digital image processing Aerial photography Flood risk assessment Flood" 
+];
+var 馬瑜嬪CS = [
+"Construction Architectural design Building Information Modeling Architectural engineering" 
+];
+var 劉立偉CS = [
+"Urban planning City Urban design Landscape architecture Urban decay Urban studies and planning Growth management Lewis Mumford" 
+];
+var 王大立CS = [
+"Research Research and development Sustainability Urban planning Economy Basic research Applied research Scientific method" 
+];
+var 劉曜華CS = [
+"City Urban studies and planning Land use planning Regional planning Urban planning Growth management Zoning Taiwan" 
+];
+var 謝政穎CS = [
+"Urban planning Urban design City Sustainability Urban decay Land use planning Urban studies and planning Landscape architecture" 
+];
+var 邱景升CS = [
+"Geographic information system Shortest path problem Geography Grid plan Urban planning City block Remote sensing City" 
+];
+var 莊永忠CS = [
+"Geographic information system Digital elevation model Time Geography Cartography Social sciences Space Sociology" 
+];
+var 周宜強CS = [
+"Urban planning Land use planning Urban studies and planning Regional planning Geography Statistics Regression analysis Land use" 
+];
+var 賴美蓉CS = [
+"Urban planning Urban decay Urban renewal Urban studies and planning Sustainability City The Death and Life of Great American Cities Redlining" 
+];
+var 徐逸祥CS = [
+"Geographic information system Geography Geographic information science Spatial analysis Learning Machine learning Social sciences Scientific method" 
+];
+
+
+// 23 //
+
+var 艾嘉銘CS = [
+"Road Tram accident Road transport Statistics Accidents Road accidents" 
+];
+var 李克聰CS = [
+"Public transport Road Bus Road transport Sustainable transport Park and ride Traffic sign Transportation planning" 
+];
+var 曾柏興CS = [
+"Cargo Intermodal freight transport Containerization Globalization" 
+];
+var 林大傑CS = [
+"Transport Management Scientific method Intelligent transportation system Geographic information system Networks Vehicle Artificial intelligence" 
+];
+var 陳方元CS = [
+"Cathay Pacific Airline Flag carrier Malaysia Airlines Oneworld Philippine Airlines Air New Zealand Cargo airline" 
+];
+var 溫傑華CS = [
+"Transport Public transport Bus Transportation Congestion pricing Walking Marketing Logit" 
+];
+var 陳朝輝CS = [
+"Transport Operations research Mathematics Network traffic simulation Verification and validation Simulation Public transport Verification and Validation" 
+];
+var 徐耀賜CS = [
+"Bridge Civil engineering Structural engineering Road transport Road Structural steel Road accidents Earthquake engineering" 
+];
+var 楊宗璟CS = [
+"Tram accident Road transport Road Accidents" 
+];
+var 葉名山CS = [
+"Tram accident Road transport Accident Accidents" 
+];
+var 葉昭甫CS = [
+"Public transport Bus Rapid transit Rail transport Sustainable transport Transport Airport Transportation planning" 
+];
+var 劉霈CS = [
+"Tarmac Asphalt concrete Noise barrier Civil engineering Infrastructure Asphalt Roadway noise Noise pollution" 
+];
+var 吳沛儒CS = [
+"Supply chain management Data analysis Logistics Management Supply chain Business intelligence Sustainability" 
+];
+var 林良泰CS = [
+"Road Bus Traffic Road traffic management Public transport Bus rapid transit Taiwan Province Lane" 
+];
+
+
+// 24 //
+
+var 陳建元CS = [
+"Economics Land use planning Cost Transaction cost Real estate Management Ronald Coase Microeconomics" 
+];
+var 何彥陞CS = [
+"Law Regulation Ecology Administrative law Management Sustainability Agriculture Land management" 
+];
+
+var 李瑞陽CS = [
+"Geographic information system Remote sensing Geography Decision support system Aerial photography Drainage basin Decision theory Image resolution" 
+];
+var 洪本善CS = [
+"Cartography Geodesy Surveying Global Positioning System Map Geographic information system Navigation Topography" 
+];
+var 王珍玲CS = [
+"Law Administrative law Regulation Real estate Constitution Property Statute Private law" 
+];
+var 楊賀雯CS = [
+"Real estate Scientific method Quantitative research Research Social sciences Qualitative research Real estate investing Real property" 
+];
+var 楊龍士CS = [
+"Geographic information system City Urban planning Land use planning Management Remote sensing Information systems Water" 
+];
+var 楊文燦CS = [
+"Sociology Psychology Ecotourism Management Sustainability Tourism Mexico Ecology" 
+];
+var 林宗賢CS = [
+"Tourism Recreation World Tourism Organization" 
+];
+var 謝靜琪CS = [
+"Real estate Taichung County Taiwan Province Shopping mall Republic of China Tainan City Market Taichung" 
+];
+var 辛年豐CS = [
+"Human rights Law Japan River Civil and political rights Environmental impact assessment Republic of China Rights" 
+];
+var 朱南玉CS = [
+"Real estate Real estate appraisal Real estate investing Evaluation methods Case study Plan International real estate Scientific method" 
+];
+var 張梅英CS = [
+"Real estate Management Real estate appraisal Real property Property Education Immovable property Fee simple" 
+];
+
+
+// 25 //
+
+
+var 李玲CS = [
+"Chinese language Chinese character Kanji Hong Kong Classical Chinese Linguistics Standard Mandarin China" 
+];
+var 廖美玉CS = [
+"Tang Dynasty Poetry Du Fu Chinese poetry Li Literature China Li Bai" 
+];
+var 宋建華CS = [
+"Tang Dynasty Middle Chinese Greek loanwords Han Dynasty Ming Dynasty Linguistics China Song Dynasty" 
+];
+var 李威熊CS = [
+"Confucianism Han Dynasty Mencius Tang Dynasty Confucius Han Chinese Chinese philosophy Neo-Confucianism" 
+];
+var 楊美美CS = [
+"Chinese literature China Tang Dynasty Chinese philosophy Song Dynasty Middle Chinese Yuan Dynasty Ouyang Xiu" 
+];
+var 王祥齡CS = [
+"Philosophy Aesthetics Georg Wilhelm Friedrich Hegel Immanuel Kant Benedetto Croce Art Greek loanwords David Hume" 
+];
+var 張瑞芬CS = [
+"Literature History of literature Writing Literary theory Literary criticism China Han Chinese Standard Mandarin" 
+];
+var 鄭慧如CS = [
+"Poetry Chinese poetry Literature Literature of Taiwan Chinese literature Linguistics Metaphor Shi" 
+];
+var 鐘文伶CS = [
+"Poetry Drama Poetic form Iambic pentameter China Iamb" 
+];
+var 朱文光CS = [
+"Culture Scientific method Linguistics Literature Vajrayana Anthropology Humanities Writing" 
+];
+var 余美玲CS = [
+"Poetry Chinese language Chinese character Chinese art Standard Mandarin Vernacular Chinese Han Chinese Chinese poetry" 
+];
+var 林韻柔CS = [
+"China Buddhism Tang Dynasty East Asia Taoism Gautama Buddha Korea Southern and Northern Dynasties" 
+];
+var 梁煌儀CS = [
+"Novel Humanities Literature Poetry Fiction Art Classic Linguistics" 
+];
+
+
+// 26 //
+
+var 蔡明秀CS = [
+"Translation Language interpretation Social sciences Linguistics Humanities Ralph Waldo Emerson English language Mark Twain" 
+];
+var 蔡依仁CS = [
+"Drama Children's literature Research and development Literature Play Child Children Childhood" 
+];
+
+var 曾鹿鳴CS = [
+"Risk Sales Business ethics Customer service Business Insurance Finance Economics" 
+];
+var 李麗秋CS = [
+"England Scientific method Literature William Shakespeare Research Poetry Hart Crane Sonnet 18" 
+];
+var 沈薇薇CS = [
+"Teaching English as a foreign language Foreign language Language education Linguistics English language Language school Applied linguistics Second language" 
+];
+var 黃舒屏CS = [
+"Linguistics Semantics Language Semiotics Pragmatics Cognitive linguistics Taiwan Language family" 
+];
+var 郭毓芳CS = [
+"Second language acquisition Linguistics Learning Education Psychology History of education" 
+];
+var 劉顯親CS = [
+"Linguistics Education University Student Research and development Research Applied linguistics Science" 
+];
+var 廖咸浩CS = [
+"Literature Poetry Literary theory Linguistics Film Modernism Translation Film theory" 
+];
+var 彭芳美CS = [
+"Computer-assisted language learning Computer program Program Linguistics Program management The Program Composition studies Language education" 
+];
+var 薛孟仁CS = [
+];
+var 周玉楨CS = [
+"Linguistics Language acquisition Second language acquisition Educational psychology Language education Applied linguistics Learning Education" 
+];
+var 劉森堯CS = [
+"Drama Film Fiction The French Lieutenant's Woman Translation Literature Mark Twain Novel" 
+];
+var 邱源貴CS = [
+"England English language Middle English Geoffrey Chaucer Literature Renaissance Poetry English literature" 
+];
+var 羅珮瑄CS = [
+"German language Spanish language Language Linguistics Spain Castilian Spanish Italian language French language" 
+];
+var 莊坤良CS = [
+"United Kingdom Ireland Irish people English language English studies Teaching English as a foreign language Dublin James Joyce" 
+];
+
+
+// 27 //
+
+var 陳森松CS = [
+"Insurance Risk management Risk Management Actuarial science Finance Law Property law" 
+];
+var 江朝CS = [
+"Insurance Liability insurance Actuarial science Types of insurance Home insurance Business Financial reinsurance" 
+];
+var 江耕南CS = [
+"Finance Bond Investment Capital Economics Rate of return" 
+];
+var 康裕民CS = [
+"Business Organization" 
+];
+var 洪介偉CS = [
+"Finance Risk management Stock market Risk Insurance Financial risk management Bond Investment" 
+];
+var 黃依潔CS = [
+"Risk management Insurance Risk Actuarial science Management Self insurance Corporate finance Investment" 
+];
+var 吳瑞雲CS = [
+"Insurance Casualty insurance Law Types of insurance Terrorism insurance Property insurance" 
+];
+var 張吉宏CS = [
+"Economics Investment Actuarial science Capitalism Insurance Stock market Risk Home insurance" 
+];
+var 寶宏CS = [
+"Management Business Insurance Business school Administration Actuary Actuarial science Public administration" 
+];
+var 許文彥CS = [
+"Insurance Investment Risk management Actuarial science Economics Risk Casualty insurance Self insurance" 
+];
+var 賴志仁CS = [
+"Risk management Insurance Risk Actuarial science Management Economics Investment Corporate finance" 
+];
+
+
+// 28 //
+
+var 陳麗君CS = [
+"Security Bond Stock market Employee stock option Marketing Derivative Finance Decision analysis" 
+];
+var 姜寄南CS = [
+"Finance" 
+];
+var 李君屏CS = [
+"Finance Insurance Financial services Reinsurance Actuarial science Risk Risk management Catastrophe bond" 
+];
+var 簡正儀CS = [
+"Stock market Economics terminology Finance Security Stock Speculation Economics Bond" 
+];
+var 廖東亮CS = [
+"Stock market Investment Mutual fund Finance Bond Security Hedge fund Stock exchange" 
+];
+var 洪偉峰CS = [
+"Stock market Finance Investment Economics Rate of return Mutual fund Hedge fund Corporate finance" 
+];
+var 林昆立CS = [
+"Bank Bond Finance Management Risk Scientific method Corporate governance Investment" 
+];
+var 羅仙法CS = [
+"Investment Economics Federal Reserve System Financial services Financial markets Stock market Pension fund Money" 
+];
+var 王韻怡CS = [
+"Futures contract Financial markets Finance Economics Futures exchange Commodity Futures Trading Commission Investment Scientific method" 
+];
+var 陳清和CS = [
+"Futures contract Dow Jones Industrial Average" 
+];
+var 劉炳麟CS = [
+"Investment Risk Risk management Finance Economics Stock market Econometrics Mutual fund" 
+];
+var 楊明晶CS = [
+"Risk Finance Debt Corporate finance Futures contract Arbitrage United States dollar Bond" 
+];
+var 王佳真CS = [
+"Investment Collective investment scheme Stochastic volatility Financial services Finance Active management Option Investment management" 
+];
+var 馮詩蘋CS = [
+"Economics Investment Risk management Risk Financial risk management Finance Management Financial risk" 
+];
+var 駱建陵CS = [
+"Corporate finance Derivative Risk Debt Bond Security Risk management Operational risk" 
+];
+var 朱心蘅CS = [
+"Finance Investment Personal finance Bond Capital budgeting Capital Risk" 
+];
+var 張倉耀CS = [
+"Economics Stock market Autoregressive conditional heteroskedasticity Stock exchange People's Republic of China Business cycle Scientific method Unemployment" 
+];
+var 吳仰哲CS = [
+"Risk Insurance Risk management Hedge Finance Actuarial science Economics Moral hazard" 
+];
+
+
+
+
+// 29 //
+
+var 曾勵新CS = [
+"Algorithm Computer science Turing machine Discrete mathematics Theory of computation Computational geometry Computational complexity theory" 
+];
+var 林維鈞CS = [
+"Scientific method Biological classification DNA microarray Medicine Linkage disequilibrium Genetic linkage Gene Statistics" 
+];
+var 林英志CS = [
+"Algorithm Function Mathematics Derivative Computer science Augmented reality Graph of a function Leonhard Euler" 
+];
+var 林震燦CS = [
+"Mathematics High school Chemistry Middle school College Secondary school Three-tier education Problem solving" 
+];
+var 黃新峰CS = [
+"Mathematics Adobe Flash Geometry Differential equation Multimedia Linear algebra Analytic geometry Derivative" 
+];
+var 魏秀娟CS = [
+"Mathematics Numerical analysis Computational science Computer science Computer simulation Deterministic system Mathematical model Dynamical system" 
+];
+var 陳子建CS = [
+"Mathematics Partial differential equation Differential equation Derivative Adobe Flash Geometry Maxwell's equations Vector space" 
+];
+var 楊基源CS = [
+"Mathematics Algebra Geometry Combinatorics Information theory Set theory Graph theory Probability theory" 
+];
+var 楊菁菁CS = [
+"Regression analysis Statistics Mathematics Scientific method Nonparametric regression Data Sociology Applied mathematics" 
+];
+var 吳純純CS = [
+"Statistics Regression analysis Mathematics Nonparametric regression Actuarial science Applied mathematics Scientific method Computer graphics" 
+];
+var 林彩玉CS = [
+"Statistics Regression analysis Statistical inference Confidence interval Mathematics Statistical terminology Cost-effectiveness analysis Prediction interval" 
+];
+var 葉光清CS = [
+"Graph theory Perfect graph Graph coloring Bipartite graph Mathematics Computer graphics Greedy coloring Planar graph" 
+];
+var 張桂芳CS = [
+"Mathematics Problem solving Manifold Space Real number Physics Set theory Complex analysis" 
+];
+var 林姿均CS = [
+"Group Invariant theory RSA Geometry" 
+];
+
+
+// 30 //
+
+var 陳建隆CS = [
+"Pollution Sustainability Soil Water purification Water pollution Water Environmental remediation Sustainable development" 
+];
+var 陳志成CS = [
+"Recycling Waste management Environmentalism Battery Waste Pollution Gasification Renewable energy" 
+];
+var 胡苔莉CS = [
+"Bacteria Water Sewage treatment Nitrogen Water pollution Microbiology Wastewater Algae" 
+];
+var 馮秋霞CS = [
+"Pollution Water Gas Diffusion Gases Volatile organic compound Boiling point Air pollution" 
+];
+var 黃東池CS = [
+"Environmental science Air pollution Environment Environmentalism Sustainability Water Water quality Biodiversity" 
+];
+var 林俊德CS = [
+"Water pollution Limited company Water Chemical engineering Natural environment Sewage treatment Corporation Environmentalism" 
+];
+var 李書安CS = [
+"Respirator Air pollution Occupational safety and health Masks Surgical mask Indoor air quality Oxygen Climate" 
+];
+var 林秋裕CS = [
+"Anaerobic digestion Hydrogen production Hydrogen Dark fermentation Nuclear power Landfill Energy development Fermentative hydrogen production" 
+];
+var 梁正中CS = [
+"Air pollution Ozone Smog Environmentalism Pollution Coal Indoor air quality Air Quality Index" 
+];
+var 王唯匡CS = [
+"Biology DNA Molecular biology Evolution Genetics Gene Charles Darwin Ecology" 
+];
+var 簡正一CS = [
+"Toxicology Molecular biology DNA Chemistry Biology Risk management Risk assessment Pollution" 
+];
+var 童翔新CS = [
+"Sustainability Pollution Water pollution Recycling Sustainable development Ecological economics Sewage treatment Natural capital" 
+];
+var 喻家駿CS = [
+"Water pollution Solvent Supercritical fluid Carbon dioxide Oxygen Carbon Supercritical fluid extraction Water" 
+];
+var 任南琪CS = [
+"Pollution prevention Environment Environmentalism Pollution Biodiversity" 
+];
+var 吳俊哲CS = [
+"Hydrogen Water pollution Nitrogen Iron Wastewater Oxygen Electrochemistry Zinc" 
+];
+var 吳志超CS = [
+"Water purification Water Water pollution Water supply Evaluation Chlorine Recycling Turbidity" 
+];
+var 張立德CS = [
+"Air pollution Particulate Environmentalism Pollution United States Environmental Protection Agency Smog Health Indoor air quality" 
+];
+var TNejatVezirogluCS = [
+"Nuclear power Water Energy Renewable energy Wind power Heat Peak oil Fossil fuel" 
+];
+
+
+
+
+// 31 //
+
+var 蔡健益CS = [
+"Semiconductor Materials science Electromagnetic radiation Ultraviolet Ceramic engineering Wave Nanomaterials Light" 
+];
+var 陳錦山CS = [
+"Thin film Sputtering Plasma Thin film solar cell Solar cell Research Oxygen Materials science" 
+];
+var 陳錦毅CS = [
+"Oxygen Ceramic engineering Materials science Oxides Titanium dioxide Nanoparticle Carbon Solid" 
+];
+var 河合良信CS = [
+"Crookes tube Electron Computer program" 
+];
+var 何主亮CS = [
+"Solar cell Chemical vapor deposition Thin film Research Plasma Sputtering Research and development Titanium dioxide" 
+];
+var 金重勳CS = [
+"Materials science Magnet Ferromagnetism Magnetism Iron Oxygen Magnetic field Lodestone" 
+];
+var 李立鼎CS = [
+"Environment Polymer Polymer physics Physics Polymer science Science Environmentally friendly Natural environment" 
+];
+var 洪緯璿CS = [
+"Energy Sun Energy conversion Condensed matter physics Light-emitting diode Solar energy Catalysis Solar cell" 
+];
+var 林昆明CS = [
+"Metallurgy Shape memory alloy Alloys Corrosion Solder Pseudoelasticity" 
+];
+var 柯澤豪CS = [
+"Carbon fiber Carbon Composite material Rechargeable battery Lithium-ion battery Lithium Materials science Pyrolysis" 
+];
+var 梁辰睿CS = [
+"Electrochemistry Nitrogen Corrosion Catalysis Oxide Titanium Zinc Catalytic converter" 
+];
+var 田修波CS = [
+"Metallurgy Stainless steel Materials science" 
+];
+var 王誠佑CS = [
+"Hydrogen Hydrogen storage Carbon fiber Materials science Adsorption Metal-organic framework Carbon Catalysis" 
+];
+var 王致傑CS = [
+"Lithium Titanium dioxide Hydrogen Oxide Rechargeable battery Lithium-ion battery Oxygen Lithium battery" 
+];
+var 邱國峰CS = [
+"Lithium-ion battery Lithium Rechargeable battery Lithium battery Thin film Lithium iron phosphate battery Battery Nickel-metal hydride battery" 
+];
+var 張育誠CS = [
+"Titanium dioxide Wafer Band gap Cadmium Germanium Solar cell Dye-sensitized solar cell Ultraviolet" 
+];
+var 駱榮富CS = [
+"Solar cell Materials science Fuel cell Photonic crystal Crystal Ceramic materials Membrane electrode assembly Thin film solar cell" 
+];
+var YosiYShachamCS = [
+"Physics Chemistry" 
+];
+var 孫道中CS = [
+"Steel Stainless steel Manganese Iron Metal Chromium Austenite Metallurgy" 
+];
+var 張志宇CS = [
+"Solar cell Diode Engineering Germanium P-n junction Band gap Flexible electronics Technology" 
+];
+
+
+// 32 //
+
+var 蔡雅芝CS = [
+"Nanotechnology Physics Light-emitting diode Maxwell's equations Condensed matter physics Photonic crystal Optical fiber Diode" 
+];
+var 胡水上CS = [
+"Crystal Liquid crystal Crystal structure Matter Optics Book of Optics Crystal optics Liquid crystal display" 
+];
+var 陳敬恒CS = [
+"Optical fiber Refractive index Light Optics Engineering Polarization Measurement Refraction" 
+];
+var 賴俊峰CS = [
+"Light-emitting diode Lighting Optical fiber Diode Optics LEd Phosphor Luminous efficacy" 
+];
+var 李正中CS = [
+"Thin film Thin-film optics Technology Engineering Chemical vapor deposition Science Film Light" 
+];
+var 李英德CS = [
+"Chemistry Condensed matter physics Raman spectroscopy Raman scattering Physics Scattering Particle physics Carbon" 
+];
+var 李賜福CS = [
+"Physics Electromagnetism Quantum mechanics Energy Light Applied mathematics Mathematics Science" 
+];
+var 劉榮平CS = [
+"Holography Optics Diffraction Diffraction grating Digital holography Holographic data storage Coherence 3D optical data storage" 
+];
+var 盧聖華CS = [
+"Wave Optics Optical coherence tomography Interference Phase Coherence Diffraction Polarization" 
+];
+var 羅道正CS = [
+"Electronic engineering Science Engineering Electronics Theory" 
+];
+var 羅仕守CS = [
+"Solar cell Thin film solar cell Photovoltaics Nanomaterials Dye-sensitized solar cell Band gap Semiconductor Thin film" 
+];
+var 林泰生CS = [
+"Spectroscopy Optics Light Electromagnetic radiation Molecule Physics Atom Book of Optics" 
+];
+var 林菲CS = [
+"School Education College Teacher Higher education History of education Curriculum Course" 
+];
+var 唐謙仁CS = [
+"Thin-film optics Sputtering Thin film Optical coating Materials science Coatings Thin film solar cell Anti-reflective coating" 
+];
+var 吳正文CS = [
+"Optical fiber Refractive index Fiber-optic communication Laser Polarization Light Fiber laser Ray" 
+];
+var 葉建宏CS = [
+"Optical fiber Laser Fiber-optic communication Laser diode Light-emitting diode Passive optical network Telecommunications network Optical communication" 
+];
+var 周哲仲CS = [
+"Electromagnetic radiation Light Optical fiber Optics Polarization Spectroscopy Radar Absorption spectroscopy" 
+];
+var 林碩泰CS = [
+"Laser Nonlinear optics Photonics Optics Light Quantum optics Optical fiber Refractive index" 
+];
+var 潘定中CS = [
+"Diffraction Coherence Electronics Diffraction grating Holography Optics Digital holography Electrical engineering" 
+];
+var 馬仕信CS = [
+"Light Optics Lighting Light-emitting diode Lens Color Optical fiber Energy" 
+];
+
+
+
+

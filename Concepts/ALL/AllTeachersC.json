@@ -1,0 +1,4817 @@
+// 0 //
+
+
+var 曹秀惠 = [
+"Enterprise resource planning" ,
+"Capital" 
+];
+var 陳光政 = [
+"Management" ,
+"Finance" ,
+"Scientific method" 
+];
+var 江向才 = [
+"Financial statements" ,
+"Finance" ,
+"Economics" ,
+"Management" ,
+"Activity-based costing" ,
+"Taichung" ,
+"Taiwan Province" ,
+"Financial statement analysis" 
+];
+var 高惠松 = [
+"Corporate governance" ,
+"International Financial Reporting Standards" ,
+"Financial statements" ,
+"Policy" ,
+"Initial public offering" ,
+"Public company" ,
+"Decision theory" ,
+"Stock market" 
+];
+var 黃娟娟 = [
+];
+var 康淑珍 = [
+"Management" ,
+"Business" ,
+"Environment" ,
+"Environment" 
+];
+var 林嬌能 = [
+"Progressive tax" ,
+"Income tax" ,
+"Management" ,
+"Taxation" ,
+"Income" ,
+"Taxation in the United States" ,
+"Regressive tax" ,
+"Proportional tax" 
+];
+var 施念恕 = [
+"Evaluation" ,
+"Value investing" ,
+"Sociology" ,
+"Investment" ,
+"Finance" ,
+"Investor profile" ,
+"Selection" ,
+"Company" 
+];
+var 盧鈺欣 = [
+"Computer" ,
+"Computer program" ,
+"Management" ,
+"Data mining" ,
+"Project management" ,
+"Systems engineering" ,
+"Machine code" ,
+"Data" 
+];
+var 翁慈青 = [
+"Management" ,
+"Corporation" ,
+"Board of directors" ,
+"Corporate governance" ,
+"Accountancy" 
+];
+var 蕭子誼 = [
+"Finance" ,
+"Balance sheet" ,
+"Management accounting" ,
+"Investment" ,
+"Economics" ,
+"Asset" ,
+"Taxation in the United States" ,
+"Financial statements" 
+];
+var 王光華 = [
+"Stock market" ,
+"Corporate governance" ,
+"Finance" ,
+"Stock" ,
+"Rate of return" ,
+"Share price" ,
+"Empirical research" ,
+"Generally Accepted Accounting Principles" 
+];
+var 王漢民 = [
+"Finance" ,
+"Economics" ,
+"Investment" ,
+"Corporate finance" ,
+"Management" ,
+"Financial statements" ,
+"Risk" ,
+"Capital structure" 
+];
+var 鄭竹君 = [
+"Tax" ,
+"Public finance" ,
+"Tax incidence" ,
+"Finance" ,
+"Pension" ,
+"Pigovian tax" ,
+"Taxation" ,
+"Deficit" 
+];
+var 鄭佩玉 = [
+"Theory" ,
+"Explanation" ,
+"Accountancy" ,
+"Scientific method" 
+];
+var 張森河 = [
+"Management accounting" ,
+"Finance" ,
+"Economics" ,
+"Financial statements" 
+];
+var 吳東憲 = [
+"Internal control" ,
+"Auditing" ,
+"Internal audit" ,
+"Financial audit" ,
+"Audit" ,
+"Systems engineering" ,
+"Effectiveness" ,
+"Effect" 
+];
+
+
+
+
+
+// 1 //
+
+var 陳俊卿 = [
+"Economics" ,
+"Macroeconomics" ,
+"Finance" ,
+"Bank" ,
+"Interest rate" ,
+"Microeconomics" ,
+"Investment" ,
+"Bond" 
+];
+var 韓宜 = [
+"Management" ,
+"Sociology" ,
+"Strategic management" ,
+"House" ,
+"Business" ,
+"Public administration" ,
+"Process management" ,
+"Governance" 
+];
+var 黃焜煌 = [
+"Statistics" ,
+"Artificial intelligence" ,
+"Electronic commerce" ,
+"Time series" ,
+"Marketing" ,
+"Neuro-fuzzy" ,
+"Neural network" ,
+"Fuzzy logic" 
+];
+var 江怡蒨 = [
+"Working capital" ,
+"Cash conversion cycle" ,
+"Management" ,
+"Currency" ,
+"Business" ,
+"Cash" ,
+"Corporate finance" ,
+"Cash flow" 
+];
+var 寇敦智 = [
+"Supply chain management" ,
+"Distribution" ,
+"Management" ,
+"Marketing" ,
+"Logistics" ,
+"Business" ,
+"Supply chain" ,
+"Marketing management" 
+];
+var 林呈昱 = [
+"Marketing" ,
+"Business" ,
+"Retailing" ,
+"Product" ,
+"Sales" ,
+"Store manager" ,
+"Distribution" ,
+"Manufacturing" 
+];
+var 劉翁昆 = [
+"Marketing" ,
+"Trade" ,
+"Southeast Asia" ,
+"Project management" ,
+"University" ,
+"Food industry" ,
+"William Shatner" 
+];
+var 邱世寬 = [
+"Management" ,
+"Business" ,
+"Case study" ,
+"Qualitative research" ,
+"Scientific method" ,
+"Corporate governance" ,
+"Governance" ,
+"Social responsibility" 
+];
+var 王若愚 = [
+"Time series" ,
+"Economics terminology" ,
+"Market microstructure" ,
+"Time series analysis" 
+];
+var 羅芳怡 = [
+"Management" ,
+"Strategic management" ,
+"Corporation" ,
+"Business" ,
+"Organization" ,
+"Business terms" ,
+"Management consulting" ,
+"Strategic planning" 
+];
+var 梁馨予 = [
+"Bank" ,
+"Finance" ,
+"Bank run" ,
+"Economics" ,
+"Investment" ,
+"Commercial bank" ,
+"Corporate governance" ,
+"Scientific method" 
+];
+var 吳廣文 = [
+"Marketing" ,
+"Internet marketing" ,
+"Economics terminology" ,
+"Management" ,
+"Service" ,
+"Economics" ,
+"Good" ,
+"Target market" 
+];
+var 吳文臨 = [
+"Investment" ,
+"Finance" ,
+"Bond" ,
+"Risk" ,
+"Personal finance" ,
+"Corporate finance" ,
+"Actuarial science" ,
+"Capital" 
+];
+var 楊明憲 = [
+"International trade" ,
+"Economics" ,
+"International economics" ,
+"Evaluation methods" ,
+"Investment" ,
+"Comparative advantage" ,
+"Macroeconomics" ,
+"Trade" 
+];
+var 徐瑞玲 = [
+"Corporate social responsibility" ,
+"Social responsibility" ,
+"International trade" ,
+"Test" ,
+"Taiwan" ,
+"Trade" ,
+"Best practice" ,
+"Socially responsible investing" 
+];
+var 許鈺珮 = [
+"Economics" ,
+"Research and development" ,
+"Innovation" ,
+"Patent" ,
+"International trade" ,
+"Research" ,
+"Chess" ,
+"Scientific method" 
+];
+var 邱安安 = [
+"Cost-benefit analysis" ,
+"International trade" ,
+"Economics" ,
+"Cost" ,
+"Investment" ,
+"Evaluation methods" ,
+"Costs" ,
+"Macroeconomics" 
+];
+var 黃秀英 = [
+"Brand" ,
+"Brand management" ,
+"Branding" ,
+"Graphic design" ,
+"Exploratory research" ,
+"Affect" 
+];
+
+
+// 2 //
+
+
+var 曾子耘 = [
+"Investment" ,
+"Corporate governance" ,
+"Management" ,
+"Business ethics" ,
+"Governance" ,
+"Corporation" ,
+"Economics" ,
+"Macroeconomics" 
+];
+var 黃定遠 = [
+"Pension" ,
+"Economics" ,
+"Tax" ,
+"Autonomy" ,
+"Welfare economics" ,
+"Market failure" ,
+"Public choice theory" ,
+"Investment" 
+];
+var 黃瓊如 = [
+"Economics" ,
+"Tax" ,
+"Public finance" ,
+"Insurance" ,
+"Scientific method" ,
+"Macroeconomics" ,
+"Government budget" ,
+"Finance" 
+];
+var 賴炎卿 = [
+"Education" ,
+"Management" ,
+"Curriculum" ,
+"Entrepreneurship" ,
+"College" ,
+"Higher education" ,
+"Business plan" ,
+"Project management" 
+];
+var 吳朝欽 = [
+"Tax" ,
+"Management" ,
+"Operations research" ,
+"Scientific method" ,
+"Statistics" ,
+"Taxation" ,
+"Macroeconomics" ,
+"Data" 
+];
+var 謝耀智 = [
+"Tax haven" ,
+"Tax law" ,
+"Tax" ,
+"Public finance" ,
+"Tax incidence" ,
+"Deficit" ,
+"Finance" ,
+"Fiscal incidence" 
+];
+var 許慧雯 = [
+"Management" ,
+"Finance" ,
+"Governance" ,
+"Corporate governance" ,
+"Business ethics" ,
+"Investment" ,
+"Risk management" ,
+"Risk" 
+];
+var 陳盛通 = [
+"Economics" ,
+"Energy conservation" ,
+"Management" ,
+"Econometrics" ,
+"Macroeconomics" ,
+"Investment" ,
+"Economic growth" ,
+"Energy policy" 
+];
+var 游慧光 = [
+"Time series" ,
+"Economics" ,
+"Regression analysis" ,
+"Public finance" ,
+"Prediction" ,
+"Scientific method" ,
+"Future" ,
+"Tax" 
+];
+var 何艷宏 = [
+"Insurance" ,
+"Economics" ,
+"Underwriting" ,
+"Scientific method" ,
+"Tax" ,
+"Empiricism" ,
+"Empirical research" ,
+"Public finance" 
+];
+var 洪國仁 = [
+"Tax law" ,
+"Tax" ,
+"Income tax" ,
+"Tax haven" ,
+"Property" ,
+"Taxation in the United States" ,
+"Finance" ,
+"Tax refund" 
+];
+
+
+
+// 3 //
+
+var 陳聖賢 = [
+"Finance" ,
+"Investment" ,
+"Personal finance" ,
+"Bond" ,
+"Capital" ,
+"Risk" ,
+"Corporate finance" ,
+"Capital structure" 
+];
+var 江宜芳 = [
+"Cognition" 
+];
+var 李桂秋 = [
+"Economics" ,
+"Business" ,
+"Microeconomics" ,
+"Cooperative" ,
+"Macroeconomics" ,
+"Friedrich Wilhelm Raiffeisen" ,
+"Scientific method" ,
+"Finance" 
+];
+var 翟本瑞 = [
+"Sociology" ,
+"Anthropology" ,
+"Creativity" ,
+"Research" ,
+"Research and development" ,
+"Culture" ,
+"Cultural anthropology" ,
+"Structuralism" 
+];
+var 林瑞發 = [
+"Domestic violence" ,
+"Management" ,
+"Sociology" ,
+"Child abuse" ,
+"Violence" ,
+"Chinese mythology" ,
+"Business ethics" ,
+"People skills" 
+];
+var 楊坤鋒 = [
+"Management" ,
+"Business" ,
+"Marketing" ,
+"Cooperative" ,
+"Plan" ,
+"Planning" ,
+"Strategic management" ,
+"Agriculture" 
+];
+var 于躍門 = [
+"Business" ,
+"Management" ,
+"Business ethics" ,
+"Strategic management" ,
+"Non-profit organization" ,
+"Organization" ,
+"Plan" ,
+"Planning" 
+];
+var 劉文榮 = [
+"Economics" ,
+"Stock market" ,
+"Autoregressive conditional heteroskedasticity" ,
+"Cooperative" ,
+"Dividend" ,
+"Credit union" ,
+"Scientific method" ,
+"Stock exchange" 
+];
+var 汪浩 = [
+"Management" ,
+"Business" ,
+"Cooperative" ,
+"Business ethics" ,
+"Organization" ,
+"Non-profit organization" ,
+"Scientific method" ,
+"Marketing" 
+];
+var 吳肇展 = [
+"Management" ,
+"Organization" ,
+"Business" ,
+"Non-profit organization" ,
+"Strategic management" ,
+"Types of organization" ,
+"Cooperative" ,
+"Marketing" 
+];
+
+
+
+// 4 //
+
+var 陳婉淑 = [
+"Bayesian inference" ,
+"Regression analysis" ,
+"Bayes factor" ,
+"Time series" ,
+"Statistical inference" ,
+"Bayesian statistics" ,
+"Statistics" ,
+"Time series analysis" 
+];
+var 高秀蘭 = [
+"Statistics" ,
+"Analysis of variance" ,
+"Regression analysis" ,
+"Resampling" 
+];
+var 李燊銘 = [
+"Statistics" ,
+"Regression analysis" ,
+"Mathematics" ,
+"Estimation theory" ,
+"Actuarial science" ,
+"Estimation" ,
+"Epidemiology" ,
+"Data" 
+];
+var 王婉倫 = [
+"Likelihood function" ,
+"Maximum likelihood" ,
+"Scientific method" ,
+"Multivariate statistics" ,
+"Statistical inference" ,
+"Bayesian inference" ,
+"Regression analysis" ,
+"Statistics" 
+];
+var 吳進家 = [
+"Optimization" ,
+"Research" ,
+"Mathematical optimization" ,
+"Operations research" ,
+"Production system" ,
+"Maxima and minima" ,
+"Research and development" 
+];
+var 吳榮彬 = [
+"Statistics" ,
+"Regression analysis" ,
+"Estimation" ,
+"Mathematics" ,
+"Sampling" ,
+"Logic" ,
+"Data" ,
+"Cumulative distribution function" 
+];
+var 鍾冬川 = [
+"Natural selection" ,
+"Biology" ,
+"Evolution" ,
+"Molecular biology" ,
+"Selection" ,
+"Statistical theory" ,
+"Population genetics" ,
+"Phylogenetics" 
+];
+var 賴崑榮 = [
+"Statistics" ,
+"Engineering" ,
+"Actuarial science" ,
+"Business" ,
+"Insurance" ,
+"Mathematics" ,
+"Fields of application of statistics" ,
+"Commercial law" 
+];
+var 李文 = [
+"Statistics" ,
+"Normal distribution" ,
+"Natural selection" ,
+"Probability theory" ,
+"Production system" ,
+"Production line" ,
+"Scheduling" ,
+"Manufacturing" 
+];
+var 林麗芬 = [
+"Insurance" ,
+"Statistics" ,
+"Actuarial science" ,
+"Scientific method" ,
+"Approximation" ,
+"Estimation" ,
+"Actuary" ,
+"Risk management" 
+];
+var 王聖 = [
+"Statistics" ,
+"Mathematics" ,
+"Exercise" ,
+"Scientific method" ,
+"Sample size" ,
+"Physician" ,
+"People's Republic of China" ,
+"Official statistics" 
+];
+var 林文欽 = [
+"Design of experiments" ,
+"Statistics" ,
+"Experiment" ,
+"Mathematics" ,
+"Applied mathematics" ,
+"Optimization" ,
+"Evaluation methods" ,
+"Regression analysis" 
+];
+var 林哲彥 = [
+"Statistics" ,
+"Mathematics" ,
+"Scientific method" ,
+"Customer relationship management" ,
+"Data" ,
+"Applied mathematics" ,
+"Multivariate statistics" ,
+"Pattern recognition" 
+];
+
+
+
+// 5 //
+
+
+var 陳瓊怜 = [
+"Scientific method" ,
+"Purchasing power parity" ,
+"Autoregressive conditional heteroskedasticity" ,
+"Implied volatility" ,
+"Stock exchange" ,
+"Econometrics" ,
+"Time series" ,
+"Economics" 
+];
+
+var 郭祐誠 = [
+"High school" ,
+"Education" ,
+"College" ,
+"School" ,
+"Middle school" ,
+"Social sciences" ,
+"Secondary school" ,
+"Teacher" 
+];
+var 胡士文 = [
+"Inflation" ,
+"Economy" ,
+"Economic growth" ,
+"Economics" ,
+"Macroeconomics" ,
+"Economic development" ,
+"Monetary policy" ,
+"Central bank" 
+];
+var 方文碩 = [
+"Economics" ,
+"International trade" ,
+"Macroeconomics" ,
+"Business cycle" ,
+"Trade" ,
+"Central bank" ,
+"Stock market" ,
+"Export" 
+];
+
+var 李文傳 = [
+"Economics" ,
+"Transaction cost" ,
+"Social sciences" ,
+"Cost" ,
+"Economic growth" ,
+"Ronald Coase" ,
+"Theory of the firm" ,
+"Property rights" 
+];
+
+var 王平 = [
+"Economics" ,
+"Economic growth" ,
+"Development economics" ,
+"Macroeconomics" ,
+"Commodity money" ,
+"Economic development" ,
+"Money supply" ,
+"Money" 
+];
+var 王葳 = [
+"Economics" ,
+"Stock market" ,
+"Macroeconomics" ,
+"Inflation" ,
+"Economy" ,
+"Utility" ,
+"Economic growth" ,
+"Stock" 
+];
+var 吳紀瑩 = [
+"Microeconomics" ,
+"Economics" ,
+"Airline" ,
+"Perfect competition" ,
+"Low-cost carrier" ,
+"Monopoly" ,
+"Southwest Airlines" ,
+"Oligopoly" 
+];
+var 徐繼達 = [
+"Economics" ,
+"Macroeconomics" ,
+"Microeconomics" ,
+"Social sciences" ,
+"Economy" ,
+"Unemployment" ,
+"Perfect competition" 
+];
+
+var 鄒繼礎 = [
+"Psychology" ,
+"Economics" ,
+"Capital accumulation" ,
+"Education" ,
+"Economic growth" ,
+"Developmental psychology" ,
+"South Korea" ,
+"Investment" 
+];
+
+var 彭德昭 = [
+"Economics" ,
+"Bank" ,
+"Scientific method" ,
+"Credit union" ,
+"Free market" ,
+"Microeconomics" ,
+"Economic system" ,
+"Standard Poor's" 
+];
+
+
+
+// 6 //
+
+
+var 曾欽正 = [
+"Data" ,
+"Data mining" ,
+"Information" ,
+"Project management" ,
+"Knowledge management" ,
+"Information management" ,
+"Evaluation" 
+];
+var 陳建文 = [
+"Marketing" ,
+"Statistics" ,
+"Psychology" ,
+"Management" ,
+"Renewable energy" ,
+"Data analysis" ,
+"Customer relationship management" ,
+"Energy" 
+];
+var 劉平文 = [
+"Organization" ,
+"Strategic management" ,
+"Business" ,
+"Management" ,
+"Knowledge management" ,
+"Organizational studies" ,
+"Science" ,
+"Scientific method" 
+];
+var 黃文柔 = [
+"Psychology" ,
+"Organization" ,
+"Developmental psychology" ,
+"Educational psychology" 
+];
+var 邱英雄 = [
+"Management" ,
+"Strategic management" ,
+"Human resource management" ,
+"Business" ,
+"Leadership" ,
+"Resource allocation" ,
+"Resource management" ,
+"Human resources" 
+];
+var 吳如娟 = [
+"Project management" ,
+"Management" ,
+"Enterprise resource planning" ,
+"Knowledge management" ,
+"Creativity" ,
+"Knowledge" ,
+"Business" ,
+"Economics" 
+];
+var 蕭國鐘 = [
+"Business ethics" ,
+"Management" ,
+"Corporate governance" ,
+"Business" ,
+"Governance" ,
+"Leadership" ,
+"Social responsibility" ,
+"Strategic management" 
+];
+var 徐重仁 = [
+"Marketing" ,
+"Marketing management" ,
+"Distribution" 
+];
+var 張寶蓉 = [
+"Strategic management" ,
+"Business" ,
+"Management" ,
+"Innovation" ,
+"Film" ,
+"Entrepreneurship" ,
+"Invention" ,
+"Peter Drucker" 
+];
+var 張美燕 = [
+"Organization" ,
+"Management" ,
+"Science" ,
+"Economics" ,
+"Operations research" ,
+"Scientific method" ,
+"Organizational studies" 
+];
+var 張秀樺 = [
+"Marketing" ,
+"Internet marketing" ,
+"Affiliate marketing" ,
+"Marketing ethics" 
+];
+var 滿肇怡 = [
+"Finance" ,
+"Computer-aided design" 
+];
+var 王智弘 = [
+"Brand" ,
+"Advertising" ,
+"Business" ,
+"Marketing" ,
+"Branding" ,
+"Professional sports" ,
+"Brand management" ,
+"Branding companies" 
+];
+var 許士軍 = [
+"Management" ,
+"Business" ,
+"Scientific method" ,
+"Strategic management" ,
+"Organization" ,
+"Research" ,
+"Innovation" ,
+"Marketing research" 
+];
+var 鄭孟育 = [
+"Social network" ,
+"Organization" ,
+"Sociology" ,
+"Research" ,
+"Management" ,
+"Knowledge management" ,
+"Network theory" ,
+"Psychology" 
+];
+
+
+
+
+
+// 7 //
+
+var 丁美靜 = [
+"Advertising" ,
+"Time management" ,
+"Marketing" ,
+"Graphic design" ,
+"Brand" ,
+"Procrastination" 
+];
+var 李元恕 = [
+"Marketing" ,
+"Customer relationship management" ,
+"Business" ,
+"Pricing" ,
+"Price" ,
+"Advertising" ,
+"Social responsibility" ,
+"Socially responsible investing" 
+];
+var 何晉瑋 = [
+"Marketing" ,
+"Brand" ,
+"Branding" ,
+"Scientific method" ,
+"Brand management" ,
+"Advertising" ,
+"Market research" ,
+"Marketing research" 
+];
+var 簡士超 = [
+"Marketing" ,
+"Customer relationship management" ,
+"Marketing research" ,
+"Business" ,
+"Relationship marketing" ,
+"Market research" ,
+"Republic of China" ,
+"Sociology" 
+];
+var 王婉禎 = [
+"Advertising" ,
+"Marketing" ,
+"Advertising slogan" 
+];
+var 凱達西 = [
+"Asset" ,
+"Marketing" 
+];
+var 王郁彬 = [
+"Marketing" ,
+"Services marketing" ,
+"Business" 
+];
+var 林志皇 = [
+"Marketing" ,
+"Business" ,
+"Psychology" ,
+"Marketing management" ,
+"Advertising" 
+];
+var 彭德湘 = [
+"Management" 
+];
+
+
+
+// 8 //
+
+var 蔡忠杓 = [
+"Science" ,
+"Scientific method" ,
+"Technology" ,
+"Research" ,
+"Project management" ,
+"Engineering" ,
+"Mathematics" ,
+"Research and development" 
+];
+var 成銘德 = [
+"Hydraulics" ,
+"Mechanical engineering" ,
+"Hydraulic machinery" ,
+"Fluid dynamics" ,
+"Piston" ,
+"Hydraulic cylinder" ,
+"Fluid power" ,
+"Pneumatics" 
+];
+var 戴國政 = [
+"Research and development" ,
+"Research" ,
+"Printed circuit board" ,
+"Innovation" ,
+"Wire" ,
+"Iron" ,
+"Industry" ,
+"Science" 
+];
+var 鄧錦坤 = [
+"Mechanical engineering" ,
+"Scientific method" ,
+"Electrical engineering" ,
+"Engineering" ,
+"Volume" ,
+"Electronics" ,
+"Fluid power" ,
+"Computer" 
+];
+var 洪榮洲 = [
+"Electrochemistry" ,
+"Electrolysis" ,
+"Aluminium" ,
+"Machining" ,
+"Research and development" ,
+"Iron" ,
+"Electrochemical cell" ,
+"Electrical discharge machining" 
+];
+var 黃錦煌 = [
+"Microphone" ,
+"Piezoelectricity" ,
+"Transducer" ,
+"Bone" ,
+"Composite material" ,
+"Magnetic field" ,
+"Finite element method" ,
+"Magnetostriction" 
+];
+var 黃宗立 = [
+"Solid mechanics" ,
+"Tensile strength" ,
+"Strength of materials" ,
+"Materials science" ,
+"Metal" ,
+"Plastic" ,
+"Aluminium" ,
+"Deformation" 
+];
+var 林浩庭 = [
+"Robotics" ,
+"Sensor" ,
+"Engineering" ,
+"Control theory" ,
+"Servomechanism" ,
+"Electrical engineering" ,
+"Hydraulics" ,
+"Scientific method" 
+];
+var 林源堂 = [
+"Fluid dynamics" ,
+"Root" ,
+"Dance" ,
+"Science" ,
+"Experiment" ,
+"Scientific method" ,
+"Technology" ,
+"Sphere" 
+];
+var 劉明山 = [
+"Computer-aided design" ,
+"Plastic" ,
+"Fluid dynamics" ,
+"Moldmaker" ,
+"Computational fluid dynamics" ,
+"Convection" ,
+"Computer-aided engineering" ,
+"Injection molding" 
+];
+var 劉顯光 = [
+"Composite material" ,
+"Carbon fiber" ,
+"Metal matrix composite" ,
+"Composite materials" ,
+"Materials science" ,
+"Pykrete" ,
+"Fracture mechanics" ,
+"Reinforced concrete" 
+];
+var 彭信舒 = [
+"Injection molding" ,
+"Plastic" ,
+"Innovation" ,
+"Research and development" ,
+"Plastics industry" ,
+"Blow molding" ,
+"Moldmaker" ,
+"Research" 
+];
+var 王啟昌 = [
+"Heat" ,
+"Temperature" ,
+"Energy" ,
+"Machine tool" ,
+"Numerical analysis" ,
+"Thermodynamics" ,
+"Lighting" ,
+"Research and development" 
+];
+var 楊榮顯 = [
+"Cast iron" ,
+"Iron" ,
+"Ductile iron" ,
+"Aluminium" ,
+"Materials science" ,
+"Steel" ,
+"Recyclable materials" ,
+"Foundry" 
+];
+var 林孟儒 = [
+"Lens" ,
+"Thin film" ,
+"Continuum mechanics" ,
+"Optics" ,
+"Waviness" ,
+"Materials science" ,
+"Scientific method" ,
+"Focus" 
+];
+var 羅致卿 = [
+"Numerical control" ,
+"Automation" ,
+"Milling machine" ,
+"Computer-aided manufacturing" ,
+"Control theory" ,
+"Machine tool" ,
+"G-code" ,
+"Screw machine" 
+];
+var 蕭肇殷 = [
+"Scientific method" ,
+"Empiricism" ,
+"Air suspension" ,
+"Volume" ,
+"Empirical research" ,
+"Science" ,
+"Control theory" ,
+"Research" 
+];
+var 朱智義 = [
+"Finite element method" ,
+"Boundary element method" ,
+"Muffler" ,
+"Internal combustion engine" ,
+"Steam locomotive" ,
+"Unmanned aerial vehicle" ,
+"Numerical differential equations" ,
+"Exhaust system" 
+];
+var 張文政 = [
+"Heat transfer" ,
+"Fluid dynamics" ,
+"Convection" ,
+"Heat" ,
+"Thermodynamics" ,
+"Chemical engineering" ,
+"Thermal contact conductance" ,
+"Mass flow rate" 
+];
+var 楊世宏 = [
+"Research and development" ,
+"Scientific method" ,
+"Automation" ,
+"Industry" ,
+"Research" ,
+"Machine learning" ,
+"Innovation" ,
+"Robot" 
+];
+
+
+
+// 9 //
+
+var 蔡昆 = [
+"Weaving" ,
+"Aramid" ,
+"Materials science" ,
+"Carbon fiber" ,
+"Tensile strength" ,
+"Kevlar" ,
+"Bone" ,
+"Fiberglass" 
+];
+var 蔡宜壽 = [
+"Field emission display" ,
+"Lithium-ion battery" ,
+"Nanotechnology" ,
+"Nanomaterials" ,
+"Carbon" ,
+"Carbon nanotube" ,
+"Flat panel display" ,
+"Lithium" 
+];
+
+var 廖盛焜 = [
+"Dyes" ,
+"Dye" ,
+"Textile" ,
+"Nylon" ,
+"Carbon dioxide" ,
+"Supercritical fluid" ,
+"Solvent" ,
+"Cotton" 
+];
+
+var 鄭國彬 = [
+"Design" ,
+"Cotton" ,
+"Industry" ,
+"Composite material" ,
+"Dietary fiber" ,
+"Programming language" ,
+"Engineering" ,
+"Industrial society" 
+];
+
+
+
+
+// 10 //
+
+var 陳亭志 = [
+"Future" ,
+"Forecasting" ,
+"Artificial intelligence" ,
+"Project management" ,
+"Planning" ,
+"Cloud computing" ,
+"Neural network" ,
+"Fuzzy logic" 
+];
+var 陳正芳 = [
+"Logistics" ,
+"Planning" ,
+"Management" ,
+"Algorithm" ,
+"Manufacturing" ,
+"Artificial intelligence" ,
+"Dimension" ,
+"Heuristic" 
+];
+var 郭修暐 = [
+"Technology" ,
+"Management" ,
+"Supply chain management" ,
+"Enterprise resource planning" ,
+"Production and manufacturing" ,
+"Technology Management" ,
+"Systems engineering" ,
+"Science" 
+];
+var 白志祥 = [
+"Tanning" ,
+"Sewage treatment" 
+];
+var 蔣安國 = [
+"Quality control" ,
+"Systems engineering" ,
+"Quality" ,
+"Management" ,
+"Statistics" ,
+"Operations research" ,
+"Resistor" ,
+"Process management" 
+];
+var 李明賢 = [
+"Quality management" ,
+"Taguchi methods" ,
+"Quality control" ,
+"Quality assurance" ,
+"Manufacturing" ,
+"ISO 9000" ,
+"Quality management system" ,
+"Six Sigma" 
+];
+var 洪明傳 = [
+"Supply chain management" ,
+"Management" ,
+"Logistics" ,
+"Production and manufacturing" ,
+"Industry" ,
+"Systems engineering" ,
+"Digital content creation" ,
+"Supply chain" 
+];
+var 曾明哲 = [
+"Research" ,
+"Manufacturing" ,
+"Engineering" ,
+"Industrial design" ,
+"Mass customization" ,
+"Research associate" ,
+"Design" ,
+"Academic administration" 
+];
+var 林暘桂 = [
+"Algorithm" ,
+"Parallel algorithm" ,
+"Operations research" ,
+"Applied mathematics" ,
+"Parallel computing" ,
+"Mathematical optimization" ,
+"Ant colony optimization" ,
+"Problem solving" 
+];
+var 盧銘勳 = [
+"Industry" ,
+"Operations management" ,
+"Scientific method" ,
+"Operations research" ,
+"Manufacturing" ,
+"Engineering" ,
+"Research" ,
+"Research and development" 
+];
+var 丘紀堇 = [
+"Sculpture" ,
+"Art" ,
+"Packaging" ,
+"Installation art" ,
+"Aesthetics" ,
+"Chinese language" ,
+"Conceptual art" ,
+"Technology" 
+];
+var 唐國豪 = [
+"User interface" ,
+"Manufacturing" ,
+"Industry" ,
+"Human factors" ,
+"Display technology" ,
+"Human–computer interaction" ,
+"Human-computer interaction" ,
+"Operations management" 
+];
+var 王逸琦 = [
+"Manufacturing" ,
+"Lean manufacturing" ,
+"Supply chain management" ,
+"Ant colony optimization" ,
+"Supply chain" ,
+"Management" ,
+"Six Sigma" ,
+"Production and manufacturing" 
+];
+var 吳美芳 = [
+"Management accounting" ,
+"Activity-based costing" ,
+"Cost accounting" ,
+"Cost" ,
+"Knowledge management" ,
+"Costs" ,
+"Project management" ,
+"Operations research" 
+];
+var 蕭堯仁 = [
+"Decision support system" ,
+"Manufacturing" ,
+"Value chain" ,
+"Decision theory" ,
+"Measurement" ,
+"Preventive maintenance" ,
+"Decision engineering" ,
+"Project management" 
+];
+var 葉忠 = [
+"Management" ,
+"Supply chain management" ,
+"Logistics" ,
+"Procurement" ,
+"Operations management" ,
+"Supply chain" ,
+"Technology" ,
+"Knowledge management" 
+];
+var 鄭豐聰 = [
+"Process management" ,
+"Industry" ,
+"Management" ,
+"Manufacturing" ,
+"Research and development" ,
+"Project management" ,
+"Six Sigma" ,
+"Supply chain" 
+];
+var 莊文傑 = [
+"Decision support system" ,
+"Innovation" ,
+"Manufacturing" ,
+"Decision theory" ,
+"Management" ,
+"Research and development" ,
+"Data warehouse" ,
+"Knowledge engineering" 
+];
+var 劉浚明 = [
+"Supply chain management" ,
+"Management" ,
+"Logistics" ,
+"Operations management" ,
+"Operations research" ,
+"Project management" ,
+"Manufacturing" ,
+"Scientific method" 
+];
+var 林棋瑋 = [
+"Manufacturing" ,
+"Genetic algorithm" ,
+"United Nations" 
+];
+var 林棋瑋 = [
+"Manufacturing" ,
+"Genetic algorithm" ,
+"United Nations" 
+];
+
+// 11 //
+
+var 曾怡享 = [
+"Nitrogen" ,
+"Oxygen" ,
+"Polymer" ,
+"Carbon dioxide" ,
+"Titanium dioxide" ,
+"Metal" ,
+"Carbon" ,
+"Zinc" 
+];
+var 陳奎佑 = [
+"Diode" ,
+"Transistor" ,
+"Semiconductor" ,
+"Germanium" ,
+"Solar cell" ,
+"P-n junction" ,
+"Electron" ,
+"Light-emitting diode" 
+];
+var 陳奇中 = [
+"Control theory" ,
+"Control engineering" ,
+"Process control" ,
+"Engineering" ,
+"Sliding mode control" ,
+"Chemical engineering" ,
+"Operations research" ,
+"Fuzzy logic" 
+];
+var 陳志賢 = [
+"Polymer" ,
+"Protein" ,
+"Photon" ,
+"Monomer" ,
+"Polymer chemistry" ,
+"Chemistry" ,
+"Copolymer" ,
+"Chemical reaction" 
+];
+var 林屏杰 = [
+"Hydrogen production" ,
+"Anaerobic digestion" ,
+"Hydrogen" ,
+"Ethanol" ,
+"Dark fermentation" ,
+"Biological hydrogen production" ,
+"Fermentative hydrogen production" ,
+"Biohydrogen" 
+];
+var 林永森 = [
+"Thin film" ,
+"Research and development" ,
+"Optics" ,
+"Electrochromism" ,
+"Packaging and labeling" ,
+"Oxygen" ,
+"Gas" ,
+"Unit load" 
+];
+var 施志欣 = [
+"ELISA" ,
+"Assay" ,
+"Immunoassay" ,
+"Blood" ,
+"ELISPOT" ,
+"Compact Disc" ,
+"Antibody" ,
+"Eva Engvall" 
+];
+var 翁于晴 = [
+"Redox" ,
+"Catalysis" ,
+"Electrochemistry" ,
+"Electrolysis" ,
+"Hydrogen" ,
+"Fuel cell" ,
+"Nitrogen" ,
+"Hydrogenation" 
+];
+var 吳石乙 = [
+"Hydrogen" ,
+"Anaerobic digestion" ,
+"Hydrogen production" ,
+"Ethanol" ,
+"Research and development" ,
+"Carbon dioxide" ,
+"Natural gas" ,
+"Sustainable technologies" 
+];
+var 許健興 = [
+"Hydrogen storage" ,
+"Electrochemistry" ,
+"Hydride" ,
+"Silicon" ,
+"Electrolyte" ,
+"Water" ,
+"Corrosion" ,
+"Chemistry" 
+];
+var 袁維勵 = [
+"Hydrogen storage" ,
+"Hydrogen" ,
+"Flat panel display" ,
+"Oxygen" ,
+"Hydride" ,
+"Sol-gel" ,
+"Manufacturing" ,
+"Polymer" 
+];
+var 詹志潔 = [
+"Titanium dioxide" ,
+"Emulsion" ,
+"Crystal" ,
+"Ester" ,
+"Taguchi methods" ,
+"Photonic crystal" ,
+"Chemical engineering" ,
+"Chemistry" 
+];
+var 張棋榕 = [
+"Materials science" ,
+"Polymer" ,
+"Ink" ,
+"Inkjet printer" ,
+"Light" ,
+"Carbon fiber" ,
+"Oxygen" ,
+"Titanium dioxide" 
+];
+var 張振昌 = [
+"Hydrogen" ,
+"Carbon monoxide" ,
+"Fuel cell" ,
+"Oxygen" ,
+"Catalysis" ,
+"Carbon dioxide" ,
+"Biofuel" ,
+"Hydrogen production" 
+];
+var 趙雲鵬 = [
+"Metabolism" ,
+"Protein" ,
+"DNA" ,
+"Biotechnology" ,
+"Bacteria" ,
+"Gene expression" ,
+"Gene" ,
+"Molecular biology" 
+];
+var 朱侯憲 = [
+"Polymer" ,
+"Polymer chemistry" ,
+"Emulsion" ,
+"Radical polymerization" ,
+"Living polymerization" ,
+"Colloid" ,
+"Polyurethane" ,
+"Polymerization" 
+];
+
+
+// 12 //
+
+var 陳啟川 = [
+"Control theory" ,
+"Estimation theory" ,
+"Mathematics" ,
+"Kalman filter" ,
+"Estimator" ,
+"Signal processing" ,
+"Systems engineering" ,
+"Robotics" 
+];
+var 陳重德 = [
+"Piezoelectricity" ,
+"Finite element method" ,
+"Engineering" ,
+"Continuum mechanics" ,
+"Partial differential equation" ,
+"Transducer" ,
+"Hilbert space" ,
+"Energy harvesting" 
+];
+var 黃振鴻 = [
+"Multidisciplinary design optimization" ,
+"Evaluation" ,
+"Assessment" ,
+"Multiobjective optimization" ,
+"Industry" ,
+"Science" ,
+"Algorithm" ,
+"Control system" 
+];
+var 郭文雄 = [
+"Carbon fiber" ,
+"Composite material" ,
+"Carbon nanotube" ,
+"Materials science" ,
+"Graphite" ,
+"Metal matrix composite" ,
+"Carbon" ,
+"Glass-reinforced plastic" 
+];
+var 李永明 = [
+"Computational fluid dynamics" ,
+"Finite element method" ,
+"Heat" ,
+"Heat engine" ,
+"Stirling engine" ,
+"Numerical differential equations" ,
+"Internal combustion engine" ,
+"Force" 
+];
+var 劉通敏 = [
+"Printing" ,
+"Inkjet printer" ,
+"Gas turbine" ,
+"Ink" ,
+"Jet engine" ,
+"Turbine" ,
+"Gas compressor" ,
+"Aircraft engine" 
+];
+var 賴盈誌 = [
+"Unmanned aerial vehicle" ,
+"Research and development" ,
+"Industry" ,
+"Unmanned vehicles" ,
+"Embedded system" ,
+"Technology" ,
+"Global Positioning System" ,
+"Embedded systems" 
+];
+var 方俊 = [
+"Finite element method" ,
+"Numerical analysis" ,
+"Partial differential equation" ,
+"Viscosity" ,
+"Axial compressor" ,
+"Fluid mechanics" ,
+"Fluid dynamics" ,
+"Turbine" 
+];
+var 宋齊有 = [
+"Fluid dynamics" ,
+"Heat" ,
+"Heat transfer" ,
+"Fuel cell" ,
+"Chemical engineering" ,
+"Proton exchange membrane fuel cell" ,
+"Energy development" ,
+"Fluid mechanics" 
+];
+var 葉俊良 = [
+"Chemistry" ,
+"Metal" ,
+"Ceramic" ,
+"Solid solution" ,
+"Solubility" ,
+"Experiment" ,
+"Gas" ,
+"Solid" 
+];
+var 鄭仙志 = [
+"Finite element method" ,
+"Continuum mechanics" ,
+"Finite element method in structural mechanics" ,
+"Partial differential equation" ,
+"Discrete element method" ,
+"Engineering" ,
+"Packaging" ,
+"Structural engineering" 
+];
+var 楊瑞彬 = [
+"Electromagnetic radiation" ,
+"Electromagnetic spectrum" ,
+"Materials science" ,
+"Electromagnetism" ,
+"Wave" ,
+"Frequency" ,
+"Light" ,
+"Radio" 
+];
+var 謝宗翰 = [
+"Aerodynamics" ,
+"Supersonic" ,
+"Mach number" ,
+"Fundamental physics concepts" ,
+"Jet engine" ,
+"Fluid dynamics" ,
+"Hypersonic" ,
+"Shock wave" 
+];
+var 黃柏文 = [
+"Fluid dynamics" ,
+"Computational fluid dynamics" ,
+"Jet engine" ,
+"Turbine" ,
+"Gas turbine" ,
+"Gas compressor" ,
+"Axial compressor" ,
+"Internal combustion engine" 
+];
+
+
+// 13 //
+
+var 蔡鈺鼎 = [
+"Artificial intelligence" ,
+"Robotics" ,
+"Signal processing" ,
+"Computer vision" ,
+"Scientific method" ,
+"Optimization" ,
+"Fuzzy logic" ,
+"Electrical engineering" 
+];
+var 劉育成 = [
+"Research" ,
+"Postdoctoral research" ,
+"Research and development" ,
+"Research associate" ,
+"Academic administration" ,
+"Education and training occupations" ,
+"Sound" ,
+"Industry" 
+];
+var 江懷海 = [
+"Engineering" ,
+"Aerospace engineering" ,
+"Aerospace" ,
+"Astronautics" 
+];
+var 徐瑞宏 = [
+"Gear" ,
+"Computer-aided design" ,
+"Gears" ,
+"Hobbing" ,
+"Computer" ,
+"Machine tools" ,
+"Numerical control" ,
+"Machine" 
+];
+
+
+
+// 14 //
+
+var 蔡明峰 = [
+"Wireless" ,
+"Embedded system" ,
+"Telematics" ,
+"Enterprise application integration" ,
+"Remote control" ,
+"Database" ,
+"Emulator" ,
+"Carrier wave" 
+];
+var 陳啟鏘 = [
+"Mathematics" ,
+"Fixed-point arithmetic" ,
+"Floating point" ,
+"Q" ,
+"Rounding" ,
+"Computer arithmetic" ,
+"Bit rate" ,
+"Computing" 
+];
+var 陳烈武 = [
+"Wireless sensor network" ,
+"Sensor" 
+];
+var 陳青文 = [
+"Embedded system" ,
+"Microprocessor" ,
+"Embedded systems" ,
+"Web browser" ,
+"Central processing unit" ,
+"PowerPC" ,
+"Forth" ,
+"Computer network" 
+];
+var 陳錫民 = [
+"Software engineering" ,
+"Engineering" ,
+"Software testing" ,
+"Software architecture" ,
+"Software design" ,
+"Distributed computing" ,
+"Computer science" ,
+"Component-based software engineering" 
+];
+var 陳奕中 = [
+"Artificial intelligence" ,
+"Database" ,
+"Database management systems" ,
+"Database management system" ,
+"Computer" ,
+"Neural network" ,
+"Artificial neural network" 
+];
+var 顧偉倫 = [
+"Database" ,
+"Computer" ,
+"Computer science" ,
+"Computer program" ,
+"Software engineering" ,
+"Data model" ,
+"Engineering" 
+];
+var 洪維志 = [
+"Computer network" ,
+"Wireless network" 
+];
+var 黃秋煌 = [
+"RFID" ,
+"Computer software" ,
+"Electronic Product Code" ,
+"Engineering" ,
+"Application software" ,
+"Cloud computing" ,
+"Project management" ,
+"Auto-ID Labs" 
+];
+var 黃溪春 = [
+"Programming language" ,
+"Java" ,
+"Computer program" ,
+"Natural language" 
+];
+var 黃秀芬 = [
+"Graph theory" ,
+"Wireless sensor network" ,
+"Algorithm" ,
+"Sensor" 
+];
+var 黃志銘 = [
+"Microprocessor" ,
+"Computer science" ,
+"Computer" ,
+"QNX" ,
+"Computing" ,
+"Wireless network" ,
+"Wi-Fi" ,
+"Wireless access point" 
+];
+var 陳德生 = [
+"Microprocessor" ,
+"Software architecture" ,
+"Embedded system" ,
+"Microcontroller" ,
+"Central processing unit" ,
+"PowerPC" ,
+"Computer" ,
+"Digital signal processing" 
+];
+var 李榮三 = [
+"Computer security" ,
+"Multimedia" ,
+"Password" ,
+"Computer" ,
+"Mobile Web" ,
+"Electronic commerce" ,
+"Information security" ,
+"Cryptography" 
+];
+var 李維斌 = [
+"Cryptography" ,
+"Security" ,
+"Information security" ,
+"Authentication" ,
+"Key management" ,
+"Computer" ,
+"Digital rights management" ,
+"Cloud computing" 
+];
+var 林財寶 = [
+"Digital systems" ,
+"Control theory" ,
+"Robotics" ,
+"Digital" ,
+"Honda" ,
+"Robot" 
+];
+var 劉宗杰 = [
+"Policy" ,
+"Security" ,
+"Information security" ,
+"Distributed computing" ,
+"Network management" ,
+"Computer security" ,
+"Implementation" ,
+"Message passing" 
+];
+var 竇其仁 = [
+"Wireless networking" ,
+"Wireless LAN" ,
+"Computer network" ,
+"Wireless network" ,
+"Wireless mesh network" ,
+"Mesh networking" ,
+"Wi-Fi" ,
+"Wireless access point" 
+];
+var 王益文 = [
+"Microprocessor" ,
+"Cryptography" ,
+"Embedded system" ,
+"Software architecture" ,
+"Computer" ,
+"Microcontroller" ,
+"Design" ,
+"Real-time computing" 
+];
+var 蘇宗安 = [
+"Database management system" ,
+"Database" ,
+"Database management systems" ,
+"Computer" 
+];
+var 林志敏 = [
+"Operating system" ,
+"Linux kernel" ,
+"Application software" ,
+"System software" ,
+"Linux" ,
+"Computer" ,
+"Embedded system" ,
+"Computer software" 
+];
+var 薛念林 = [
+"Software design" ,
+"Design" ,
+"Software engineering" ,
+"Software testing" ,
+"Software development process" ,
+"Application software" ,
+"Embedded system" ,
+"Software development" 
+];
+var 楊東麟 = [
+"Data mining" ,
+"Computer" ,
+"Grid computing" ,
+"Data analysis" ,
+"Data warehouse" ,
+"Parallel computing" ,
+"Software engineering" ,
+"Technology" 
+];
+var 游景盛 = [
+"Bioinformatics" ,
+"DNA" ,
+"Molecular biology" ,
+"Protein" ,
+"Cell biology" ,
+"Gene" ,
+"Systems biology" ,
+"Organism" 
+];
+var 徐弘洋 = [
+"Central processing unit" ,
+"Microprocessor" ,
+"Computer architecture" ,
+"Instruction set" ,
+"Microcontroller" ,
+"ARM architecture" ,
+"Digital Equipment Corporation" ,
+"Mathematics" 
+];
+var 許芳榮 = [
+"DNA" ,
+"Gene" ,
+"RNA" ,
+"Molecular biology" ,
+"Bioinformatics" ,
+"Genetics" ,
+"Protein" ,
+"RNA splicing" 
+];
+var 林明言 = [
+"Streaming media" ,
+"Limit of a sequence" ,
+"Sequence" ,
+"Series" ,
+"Database" ,
+"Pattern" ,
+"Stream" ,
+"The Automatic" 
+];
+var 張貴忠 = [
+"Embedded system" ,
+"Linux" ,
+"Microprocessor" ,
+"Windows Mobile" ,
+"Flash memory" ,
+"Real-time computing" ,
+"Microcontroller" ,
+"Central processing unit" 
+];
+
+
+// 15 //
+
+var 曹嶸 = [
+"Magnetic field" ,
+"Fundamental physics concepts" ,
+"Magnetic flux" ,
+"Quantum mechanics" ,
+"Electromagnetic radiation" ,
+"Electromagnetic spectrum" ,
+"Maxwell's equations" ,
+"Polarization" 
+];
+var 沈昭元 = [
+"Polarization" ,
+"Electromagnetic radiation" ,
+"Radio" ,
+"Antenna" ,
+"RFID" ,
+"ISM band" ,
+"Electromagnetic spectrum" ,
+"Wave propagation" 
+];
+var 何子儀 = [
+"Electronic engineering" ,
+"Electrical engineering" ,
+"Electronic design automation" ,
+"Electronics" ,
+"Computer" ,
+"Embedded system" ,
+"Microprocessor" ,
+"Electromagnetic pulse" 
+];
+var 陳志強 = [
+"Transmission line" ,
+"Microwave" ,
+"Electronic design" ,
+"Integrated circuit design" ,
+"Scientific method" ,
+"Antenna" ,
+"Waveguide" ,
+"Signal processing" 
+];
+var 黃思倫 = [
+"Electric power" ,
+"Rail transport" ,
+"Electricity generation" ,
+"Transformer" ,
+"Nuclear power" ,
+"Rail tracks" ,
+"Third rail" ,
+"Battery" 
+];
+var 李企桓 = [
+"Application software" ,
+"Computer software" ,
+"Materials science" ,
+"Diffraction grating" ,
+"Scientific method" ,
+"Wave" ,
+"Composite material" ,
+"Research and development" 
+];
+var 陳坤煌 = [
+"Surface plasmon resonance" ,
+"Measurement" ,
+"Refractive index" ,
+"Optics" ,
+"Extraordinary optical transmission" ,
+"Metrology" ,
+"Systems of measurement" ,
+"Condensed matter physics" 
+];
+var 陳德請 = [
+"Optics" ,
+"Light" ,
+"Laser" ,
+"Infrared" ,
+"Light-emitting diode" ,
+"Lens" ,
+"Electromagnetic radiation" ,
+"Focal length" 
+];
+var 劉文豐 = [
+"Optical fiber" ,
+"Fiber Bragg grating" ,
+"Fiber-optic communication" ,
+"Laser" ,
+"Photonics" ,
+"Photonic crystal" ,
+"Sensors" ,
+"Photonic-crystal fiber" 
+];
+var 黃昌圳 = [
+"Electric motor" ,
+"Stepper motor" ,
+"Brushless DC electric motor" ,
+"Electrical engineering" ,
+"Electric vehicle" ,
+"Electric motors" ,
+"AC motor" ,
+"Electromagnetism" 
+];
+var 田春林 = [
+"Optical fiber" ,
+"Refractive index" ,
+"Optics" ,
+"Lens" ,
+"Thin film" ,
+"Measurement" ,
+"Photonic crystal" ,
+"Photonics" 
+];
+var 林榮松 = [
+"Wireless" ,
+"Industrial society" ,
+"Wireless network" 
+];
+var 鄭進興 = [
+"Optical fiber" ,
+"Control theory" ,
+"Electrical engineering" ,
+"Motor controller" ,
+"Rail transport" ,
+"Electricity" ,
+"Transducer" ,
+"Automation" 
+];
+var 梁寶芝 = [
+"Liquid crystal" ,
+"Liquid crystal display" ,
+"Display technology" ,
+"Display resolution" ,
+"Crystal" ,
+"Electronic paper" ,
+"Pixel" ,
+"Polarizer" 
+];
+var 蘇恆毅 = [
+"Units of measurement" ,
+"Measurement" ,
+"Power outage" ,
+"Metrology" ,
+"Dimensional analysis" ,
+"Phasor measurement unit" ,
+"Direct current" ,
+"Smart grid" 
+];
+var 王壘 = [
+"Microprocessor" ,
+"Microcontroller" ,
+"Central processing unit" ,
+"Linux" ,
+"QNX" ,
+"Computer architecture" ,
+"Web browser" ,
+"Embedded system" 
+];
+
+
+// 16 //
+
+var 陳冠宏 = [
+"Circuit design" ,
+"Integrated circuit design" ,
+"Research" ,
+"Electronic design automation" ,
+"Electronic engineering" ,
+"Video" ,
+"Video compression" ,
+"Electronics" 
+];
+var 陳家富 = [
+"Solar cell" ,
+"Amorphous silicon" ,
+"Chemical vapor deposition" ,
+"Crystalline silicon" ,
+"Germanium" ,
+"Thin film solar cell" ,
+"Plasma display" ,
+"Photovoltaic module" 
+];
+var 陳坤志 = [
+"Electronic design automation" ,
+"Integrated circuits" ,
+"Software architecture" ,
+"Engineering" ,
+"Electronic design" ,
+"Electronic engineering" ,
+"Sustainable design" ,
+"Integrated circuit design" 
+];
+var 李景松 = [
+"Semiconductor" ,
+"Transistor" ,
+"Gallium arsenide" ,
+"Germanium" ,
+"Integrated circuit" ,
+"Gallium" ,
+"CMOS" ,
+"Diode" 
+];
+var 曾憲輝 = [
+"Application-specific integrated circuit" ,
+"Bluetooth" ,
+"Modulation" ,
+"Cordless telephone" ,
+"Radio" ,
+"Integrated circuit" ,
+"Ultra-wideband" ,
+"Wireless" 
+];
+var 林成利 = [
+"Integrated circuit" ,
+"Semiconductor" ,
+"Semiconductor device" ,
+"Silicon" ,
+"MOSFET" ,
+"Semiconductor device fabrication" ,
+"CMOS" ,
+"Transistor" 
+];
+var 劉漢胤 = [
+"Diode" ,
+"Transistor" ,
+"Semiconductor" ,
+"Integrated circuit" ,
+"Silicon" ,
+"Germanium" ,
+"Oxygen" ,
+"Semiconductor device" 
+];
+var 簡鳳佐 = [
+"Transistor" ,
+"MOSFET" ,
+"Semiconductor device" ,
+"Diode" ,
+"Integrated circuit" ,
+"Power MOSFET" ,
+"Power semiconductor device" ,
+"Semiconductor" 
+];
+var 劉俊傑 = [
+"Transistor" ,
+"Integrated circuit" ,
+"MOSFET" ,
+"Electrostatic discharge" ,
+"Semiconductor" ,
+"Diode" ,
+"Semiconductor device" ,
+"Silicon" 
+];
+var 劉堂傑 = [
+"Transistor" ,
+"Silicon" ,
+"Electronics" ,
+"Electronic engineering" ,
+"Liquid crystal" ,
+"Semiconductor" ,
+"Liquid crystal display" ,
+"Integrated circuit" 
+];
+var 康宗貴 = [
+"Silicon" ,
+"Transistor" ,
+"Oxygen" ,
+"Dielectric" ,
+"Semiconductor" ,
+"Integrated circuit" ,
+"Amorphous silicon" ,
+"Wafer" 
+];
+var 王啟林 = [
+"Integrated circuit" ,
+"Transistor" ,
+"Bipolar junction transistor" ,
+"MOSFET" ,
+"Electronic amplifier" ,
+"P-n junction" ,
+"Silicon" ,
+"Semiconductor" 
+];
+var 吳鴻璋 = [
+"Electrical engineering" ,
+"Computer" ,
+"Engineering" ,
+"Digital signal processing" ,
+"Analog signal processing" ,
+"Electronic engineering" ,
+"Analog signal" ,
+"Electronics" 
+];
+var 吳重雨 = [
+"Neural network" ,
+"Integrated circuit" ,
+"Electronic design" 
+];
+var 蕭敏學 = [
+"Electronic engineering" ,
+"Integrated circuit" ,
+"Electronic design" ,
+"Electronic design automation" ,
+"Circuit design" ,
+"Electronics" ,
+"Computer engineering" ,
+"Experiment" 
+];
+var 許恒壽 = [
+"Electronic engineering" ,
+"Data transmission" ,
+"Differential signaling" ,
+"Integrated circuit design" ,
+"Electronic design" ,
+"Semiconductor" ,
+"Low-voltage differential signaling" ,
+"Differential" 
+];
+var 楊炳章 = [
+"Integrated circuit" ,
+"Semiconductor" ,
+"Measurement" ,
+"Psychometrics" ,
+"Silicon" ,
+"Semiconductor device" ,
+"Germanium" ,
+"Transistor" 
+];
+var 楊水源 = [
+"Electronic engineering" ,
+"Mathematics" ,
+"Diode" ,
+"Silicon" ,
+"Integrated circuit" ,
+"PLECS" ,
+"Series and parallel circuits" ,
+"Transistor" 
+];
+var 楊文祿 = [
+"Silicon" ,
+"Integrated circuit" ,
+"Semiconductor" ,
+"Semiconductor device" ,
+"Solar cell" ,
+"Semiconductor device fabrication" ,
+"Crystalline silicon" ,
+"Amorphous silicon" 
+];
+var 鄭經華 = [
+"Design" ,
+"Electronic engineering" ,
+"Engineering" ,
+"Implementation" ,
+"Electronic design automation" ,
+"Design research" ,
+"Integrated circuits" ,
+"Minimally invasive" 
+];
+var 林宗志 = [
+"Control theory" ,
+"Electrical engineering" ,
+"Robotics" ,
+"Integrated circuit" ,
+"Control engineering" ,
+"Electronic engineering" ,
+"Fuzzy logic" ,
+"Systems engineering" 
+];
+var 施仁斌 = [
+"Superconductivity" ,
+"High-temperature superconductivity" ,
+"Thin film" ,
+"Magnetism" ,
+"BCS theory" ,
+"Magnetic field" ,
+"Research" ,
+"Solid" 
+];
+var 劉紹宗 = [
+"Semiconductor device" ,
+"Integrated circuit" ,
+"Silicon" ,
+"Electronic engineering" ,
+"Oxygen" ,
+"Quantum mechanics" ,
+"Semiconductor" ,
+"Chemistry" 
+];
+
+
+
+// 17 //
+
+var 陳昶孝 = [
+"Field-effect transistor" ,
+"Thermoelectric effect" ,
+"Materials science" ,
+"Thermodynamics" ,
+"Material" 
+];
+var 陳孝武 = [
+"Control theory" ,
+"Partial differential equation" ,
+"Motion control" ,
+"Mathematics" ,
+"Digital signal processing" ,
+"Differential equation" ,
+"Servomechanism" ,
+"Robotics" 
+];
+var 洪三山 = [
+"Control theory" ,
+"Control engineering" ,
+"Feedback" ,
+"Design" ,
+"PID controller" ,
+"Suspension" ,
+"Performance testing" ,
+"Fuzzy logic" 
+];
+var 黃建立 = [
+"Control theory" ,
+"Control engineering" ,
+"Automation" ,
+"HVAC control system" ,
+"Process control" ,
+"PID controller" ,
+"Refrigeration" ,
+"Feedback" 
+];
+var 黃榮興 = [
+"Control theory" ,
+"Engineering" ,
+"Technology" ,
+"Control engineering" ,
+"Motor system" ,
+"Operations research" ,
+"Real-time Control System" ,
+"Motor control" 
+];
+var 林宸生 = [
+"Optics" ,
+"Light-emitting diode" ,
+"User interface" ,
+"Optical fiber" ,
+"Experiment" ,
+"Measurement" ,
+"Image processing" ,
+"Automation" 
+];
+var 林南州 = [
+"Robotics" ,
+"Engineering" ,
+"Control theory" ,
+"Fuzzy logic" ,
+"Automation" ,
+"Scientific method" ,
+"Robot" ,
+"Control engineering" 
+];
+var 劉益瑞 = [
+"Magnetic resonance imaging" ,
+"Medical imaging" ,
+"Diffusion MRI" ,
+"Image processing" ,
+"Neuroimaging" ,
+"Carbon dioxide" ,
+"Brain" ,
+"Radiology" 
+];
+var 林賢龍 = [
+"Control theory" ,
+"Control system" ,
+"Feedback" ,
+"PID controller" ,
+"Process control" ,
+"Control engineering" ,
+"Respiratory system" ,
+"Automation" 
+];
+var 蘇文彬 = [
+"Automation" ,
+"Control theory" ,
+"Control system" ,
+"Digital control" ,
+"Process control" ,
+"Motion control" ,
+"Control engineering" 
+];
+var 吳穎強 = [
+"Robotics" ,
+"Robot" ,
+"Motion planning" ,
+"Automation" ,
+"Industrial robot" ,
+"Mechanics" ,
+"Evolutionary robotics" ,
+"Control system" 
+];
+var 林昱成 = [
+"Control theory" ,
+"Research and development" ,
+"Research" ,
+"Systems engineering" ,
+"Control engineering" ,
+"Warning system" ,
+"Science" ,
+"Innovation" 
+];
+var 林育德 = [
+"Heart" ,
+"Signal processing" ,
+"Measurement" ,
+"Electrical engineering" ,
+"Circulatory System" ,
+"Digital signal processing" ,
+"Blood" ,
+"Analog signal processing" 
+];
+var 張金堅 = [
+"Medicine" ,
+"Cancer" ,
+"Surgery" ,
+"Death" ,
+"Colon" ,
+"Obesity" ,
+"Surgeon" ,
+"Plastic surgery" 
+];
+var 許煜亮 = [
+"Control theory" ,
+"Input device" ,
+"Scientific method" ,
+"Old age" ,
+"Control engineering" ,
+"Psychology" ,
+"Signal processing" ,
+"Research" 
+];
+var 張興政 = [
+"Control system" ,
+"Measurement" ,
+"Control theory" ,
+"Automation" ,
+"Measuring instrument" ,
+"Process control" ,
+"Feedback" ,
+"Microelectromechanical systems" 
+];
+var 邱創乾 = [
+"Research" ,
+"Signal processing" ,
+"Medicine" ,
+"Speech recognition" ,
+"Digital signal processing" ,
+"Image processing" ,
+"Electrical engineering" ,
+"Pulse" 
+];
+var 鄒慶福 = [
+"Diode" ,
+"Light-emitting diode" ,
+"Lighting" ,
+"Sensor" ,
+"Infrared" ,
+"LEd" ,
+"Optical fiber" ,
+"Semiconductor" 
+];
+var 謝哲光 = [
+];
+var 張寧群 = [
+"Computer graphics" ,
+"Engineering" ,
+"Fourier analysis" ,
+"Fourier series" ,
+"Electrical engineering" ,
+"Mathematical analysis" ,
+"Applied mathematics" ,
+"Mathematics" 
+];
+
+
+// 18 //
+
+var 陳家豪 = [
+"Lighting" ,
+"Radio" ,
+"Integrated circuit design" ,
+"Circuit design" ,
+"Silicon" ,
+"Electromagnetic radiation" ,
+"Electronic engineering" ,
+"Vacuum tube" 
+];
+var 陳志瀅 = [
+"Cryptography" ,
+"Electronic commerce" ,
+"Digital signature" ,
+"Scientific method" ,
+"Design" ,
+"Algorithm" ,
+"Mathematics" ,
+"RSA" 
+];
+var 翟本喬 = [
+"Computer program" ,
+"Cloud computing" ,
+"Application software" ,
+"Computer software" ,
+"System software" ,
+"Computer algebra system" 
+];
+var 賴辰彥 = [
+"Radio" ,
+"Mobile phone" ,
+"Bluetooth" ,
+"Information theory" ,
+"Cordless telephone" ,
+"Communication" ,
+"Telecommunication" ,
+"Data compression" 
+];
+var 陳益生 = [
+"Signal processing" ,
+"Digital signal processing" ,
+"Wireless" ,
+"Estimation theory" ,
+"Mathematics" ,
+"Estimation" ,
+"Modulation" ,
+"Frequency-division multiplexing" 
+];
+var 林漢年 = [
+"Radio" ,
+"Microwave" ,
+"Electronics" ,
+"Electromagnetism" ,
+"Wireless" ,
+"Heinrich Hertz" ,
+"Electronic engineering" ,
+"Maxwell's equations" 
+];
+var 林立謙 = [
+"Video compression" ,
+"Digital video" ,
+"Video" ,
+"Image processing" ,
+"Optics" ,
+"H.264/MPEG-4 AVC" ,
+"Digital signal processing" ,
+"MPEG-4" 
+];
+var 林維崙 = [
+"Direct-sequence spread spectrum" ,
+"Frequency-hopping spread spectrum" ,
+"Signal processing" ,
+"Spread spectrum" ,
+"Modulation" ,
+"Mathematics" ,
+"Code division multiple access" ,
+"Telecommunication theory" 
+];
+var 辛紹志 = [
+"Electronic engineering" ,
+"Electronics" ,
+"Electrical engineering" ,
+"Electronic design automation" ,
+"Circuit design" ,
+"Engineering" ,
+"Computer" ,
+"Educational psychology" 
+];
+var 辛正和 = [
+"Image processing" ,
+"Digital video" ,
+"Computer vision" ,
+"Video compression" ,
+"Digital image processing" ,
+"Digital signal processing" ,
+"Video" ,
+"Computer graphics" 
+];
+var 楊豐瑞 = [
+"Computer network" ,
+"Digital signal processing" ,
+"Internet Protocol" ,
+"Electrical engineering" ,
+"Internet" ,
+"Parallel computing" ,
+"Digital electronics" ,
+"Signal processing" 
+];
+var 廖和恩 = [
+"Digital signal processing" ,
+"Radio" ,
+"Cordless telephone" ,
+"Bluetooth" ,
+"Mobile phone" ,
+"Signal processing" ,
+"Digital filter" ,
+"Finite impulse response" 
+];
+var 廖時三 = [
+"Band-stop filter" ,
+"Radio" ,
+"Band-pass filter" ,
+"Vacuum tube" ,
+"Microwave" ,
+"Integrated circuit design" ,
+"Wireless" ,
+"Filter" 
+];
+var 袁世一 = [
+"Embedded system" ,
+"Real-time operating system" ,
+"Microprocessor" ,
+"Embedded systems" ,
+"VxWorks" ,
+"Microcontroller" ,
+"Real-time computing" ,
+"Forth" 
+];
+var 趙啟時 = [
+"Mobile phone" ,
+"Network management" ,
+"Cellular network" ,
+"Computer network" ,
+"Networks" ,
+"Wireless network" ,
+"Diagnosis" ,
+"Telephone" 
+];
+var 朱嘯秋 = [
+"Bluetooth" ,
+"Wireless" ,
+"Computer network" ,
+"Amateur radio" ,
+"Data transmission" ,
+"Wireless network" ,
+"ASCII" ,
+"Cordless telephone" 
+];
+var 鄒耀東 = [
+"Embedded system" ,
+"Emulator" ,
+"Embedded systems" ,
+"Database" ,
+"Linux" ,
+"Middleware" ,
+"Wireless sensor network" ,
+"Application software" 
+];
+var 尤正祺 = [
+"Radio" ,
+"Bluetooth" ,
+"Microwave" ,
+"Vacuum tube" ,
+"Mobile phone" ,
+"Cordless telephone" ,
+"Radio frequency antenna types" ,
+"Receiver" 
+];
+var 何滿龍 = [
+"Radio" ,
+"Wireless" ,
+"Amateur radio" ,
+"Modulation" ,
+"Transmitter" ,
+"Nikola Tesla" ,
+"Receiver" ,
+"Bluetooth" 
+];
+
+
+// 19 //
+
+var 陳清標 = [
+"Geodesy" ,
+"Cartography" ,
+"Geographic information system" ,
+"Surveying" ,
+"Global Positioning System" ,
+"Global navigation satellite system" ,
+"GPS" ,
+"Aerial photography" 
+];
+var 卜君平 = [
+"Structural engineering" ,
+"Bridge" ,
+"Civil engineering" ,
+"Feedback" ,
+"Control theory" ,
+"Earthquake engineering" ,
+"Shock absorber" ,
+"Subroutine" 
+];
+var 康裕明 = [
+"Civil engineering" ,
+"Infrastructure" ,
+"Nondestructive testing" ,
+"Research and development" ,
+"Electromagnetic radiation" ,
+"Radar" ,
+"Inspection" ,
+"Road" 
+];
+var 李秉乾 = [
+"Earthquake engineering" ,
+"Structural engineering" ,
+"Civil engineering" ,
+"Engineering" ,
+"Research" ,
+"Project management" ,
+"Construction" ,
+"Management" 
+];
+var 廖為忠 = [
+"Optical fiber" ,
+"Concrete" ,
+"Composite material" ,
+"Materials science" ,
+"Fracture mechanics" ,
+"Fracture toughness" ,
+"Compressive strength" ,
+"Test method" 
+];
+var 蔡崇興 = [
+"Shock absorber" ,
+"Earthquake engineering" ,
+"Civil engineering" ,
+"Earthquake" ,
+"Building" ,
+"Structural engineering" ,
+"Tuned mass damper" ,
+"Vibration" 
+];
+var 黃逸萍 = [
+"Civil engineering" ,
+"Computer graphics" ,
+"Computer" ,
+"Graphics" ,
+"Graphic design" ,
+"Computer-aided design" ,
+"Retaining wall" ,
+"Waste management" 
+];
+var 陳廣祥 = [
+"Geotechnical engineering" ,
+"Soil compaction" ,
+"Finite element method" ,
+"Relative density" ,
+"Soil" ,
+"Geology" ,
+"Scientific method" ,
+"Erosion" 
+];
+var 林慶昌 = [
+"Reinforced concrete" ,
+"Structural engineering" ,
+"Beam" ,
+"Earthquake engineering" ,
+"Concrete" ,
+"Engineering" ,
+"Prestressed concrete" ,
+"Reinforcement" 
+];
+var 林保宏 = [
+"Project management" ,
+"Risk management" ,
+"Greenhouse gas" ,
+"Uncertainty" ,
+"Risk" ,
+"Construction" ,
+"Decision theory" ,
+"Carbon dioxide" 
+];
+var 林威延 = [
+"Geographic information system" ,
+"Republic of China" ,
+"Open Geospatial Consortium" ,
+"Construction management" ,
+"Information" ,
+"Geography" ,
+"Cartography" ,
+"Decision theory" 
+];
+var 蘇人煇 = [
+"Materials science" ,
+"Concrete" ,
+"Engineering" ,
+"Research" ,
+"Reinforced concrete" ,
+"Science" ,
+"Water management" ,
+"Applied research" 
+];
+var 許澤善 = [
+"Soil mechanics" ,
+"Geotechnical engineering" ,
+"Civil engineering" ,
+"Engineering" ,
+"Professional Engineer" ,
+"Geology" ,
+"Slope stability" ,
+"Shear strength" 
+];
+var 王起平 = [
+"Chemistry" ,
+"Composite material" ,
+"Fiberglass" ,
+"Research" ,
+"Science" ,
+"Epoxy" ,
+"Experiment" ,
+"Chemical substance" 
+];
+var 林正紋 = [
+"Computer-aided design" ,
+"Structural engineering" ,
+"Computer-aided engineering" ,
+"Structural health monitoring" ,
+"Management" ,
+"Control theory" ,
+"Systems engineering" ,
+"Engineering" 
+];
+var 張志超 = [
+"Finite element method" ,
+"Partial differential equation" ,
+"Numerical analysis" ,
+"Concrete" ,
+"Direct stiffness method" ,
+"Rebar" ,
+"Engineering" ,
+"Structural analysis" 
+];
+var 張智元 = [
+"Project management" ,
+"Construction" ,
+"Real estate" ,
+"Management" ,
+"Building" ,
+"Architect" ,
+"House" ,
+"Facility management" 
+];
+
+
+// 20 //
+
+var 陳昶憲 = [
+"Hydrology" ,
+"Water" ,
+"Water management" ,
+"Water supply" ,
+"Water pollution" ,
+"Management" ,
+"Water resources" ,
+"Surface water" 
+];
+var 陳憲宗 = [
+"Hydrology" ,
+"Climate change" ,
+"Flood" ,
+"Water" ,
+"Weather" ,
+"Tropical cyclone" ,
+"Future" ,
+"Precipitation" 
+];
+var 李漢鏗 = [
+"Water" ,
+"Water pollution" ,
+"Hydrology" ,
+"Water supply" ,
+"Sustainability" ,
+"Drainage basin" ,
+"Water management" ,
+"Management" 
+];
+var 蘇惠珍 = [
+"Hydrology" ,
+"Water management" ,
+"Water resources" ,
+"Climate" ,
+"Water supply" ,
+"Water" ,
+"Weather" ,
+"Drainage basin" 
+];
+var 連惠邦 = [
+"Research" ,
+"Geomorphology" ,
+"Surface runoff" ,
+"Erosion" ,
+"Soil" ,
+"River" ,
+"Stream" ,
+"Hydrology" 
+];
+var 廖清標 = [
+"Fluid dynamics" ,
+"Vortex" ,
+"Computational fluid dynamics" ,
+"Hydrology" ,
+"Dam" ,
+"Flood" ,
+"Computer simulation" ,
+"Fluid mechanics" 
+];
+var 許少華 = [
+"Sediment" ,
+"Hydrology" ,
+"Water" ,
+"Water management" ,
+"Water pollution" ,
+"Surface runoff" ,
+"Sediment transport" ,
+"Geomorphology" 
+];
+var 許盈松 = [
+"Water management" ,
+"Hydrology" ,
+"Water" ,
+"Sediment" ,
+"Water resources" ,
+"Geomorphology" ,
+"Water supply" ,
+"River" 
+];
+var 許裕雄 = [
+"Hydraulic engineering" ,
+"Hydraulics" ,
+"Mechanical engineering" ,
+"River" ,
+"Environmental engineering" 
+];
+var 楊朝仲 = [
+"Project management" ,
+"Management" ,
+"Operations research" ,
+"Systems engineering" ,
+"Systems thinking" ,
+"Problem solving" ,
+"Systems theory" ,
+"Teacher" 
+];
+var 王傳益 = [
+"Sediment" ,
+"Geomorphology" ,
+"Stream" ,
+"Sediment transport" ,
+"Drainage" ,
+"Hydrology" ,
+"Water" ,
+"Surface runoff" 
+];
+var 葉昭憲 = [
+"Hydrology" ,
+"Water" ,
+"Drainage basin" ,
+"Management" ,
+"Reservoir" ,
+"Conservation authority" ,
+"Watershed management" ,
+"Water management" 
+];
+var 鄭仙偉 = [
+"Fluid dynamics" ,
+"Viscosity" ,
+"Force" ,
+"Fluid" ,
+"Reynolds number" ,
+"Drag" ,
+"Lift" ,
+"Computational fluid dynamics" 
+];
+var 劉建榮 = [
+"Water" ,
+"Hydrology" ,
+"Erosion" ,
+"River" ,
+"Research" ,
+"Sediment" ,
+"Water pollution" ,
+"Sand" 
+];
+var 吳俊鋐 = [
+"Geomorphology" ,
+"Erosion" ,
+"Water" ,
+"Sediment" ,
+"Emergency evacuation" ,
+"Sand" ,
+"Sediment transport" ,
+"Drainage basin" 
+];
+var 張嘉玲 = [
+"Drainage basin" ,
+"Hydrology" ,
+"Water" ,
+"Water purification" ,
+"Water pollution" ,
+"Management" ,
+"Water management" ,
+"Environmental science" 
+];
+
+// 21 //
+
+
+// 22 //
+
+var 高孟定 = [
+"City" ,
+"Project management" ,
+"Plan" ,
+"Urban design" ,
+"Sustainability" ,
+"Urban studies and planning" ,
+"Urban planning" ,
+"Planning" 
+];
+var 高豫麒 = [
+"Geodesy" ,
+"Surveying" ,
+"Earth" ,
+"Water" ,
+"Geodetic system" ,
+"Global Positioning System" ,
+"Civil engineering" ,
+"Research" 
+];
+var 雷祖強 = [
+"Remote sensing" ,
+"Geographic information system" ,
+"Hydrology" ,
+"Geography" ,
+"Digital image processing" ,
+"Aerial photography" ,
+"Flood risk assessment" ,
+"Flood" 
+];
+var 馬瑜嬪 = [
+"Construction" ,
+"Architectural design" ,
+"Building Information Modeling" ,
+"Architectural engineering" 
+];
+var 劉立偉 = [
+"Urban planning" ,
+"City" ,
+"Urban design" ,
+"Landscape architecture" ,
+"Urban decay" ,
+"Urban studies and planning" ,
+"Growth management" ,
+"Lewis Mumford" 
+];
+var 王大立 = [
+"Research" ,
+"Research and development" ,
+"Sustainability" ,
+"Urban planning" ,
+"Economy" ,
+"Basic research" ,
+"Applied research" ,
+"Scientific method" 
+];
+var 劉曜華 = [
+"City" ,
+"Urban studies and planning" ,
+"Land use planning" ,
+"Regional planning" ,
+"Urban planning" ,
+"Growth management" ,
+"Zoning" ,
+"Taiwan" 
+];
+var 謝政穎 = [
+"Urban planning" ,
+"Urban design" ,
+"City" ,
+"Sustainability" ,
+"Urban decay" ,
+"Land use planning" ,
+"Urban studies and planning" ,
+"Landscape architecture" 
+];
+var 邱景升 = [
+"Geographic information system" ,
+"Shortest path problem" ,
+"Geography" ,
+"Grid plan" ,
+"Urban planning" ,
+"City block" ,
+"Remote sensing" ,
+"City" 
+];
+var 莊永忠 = [
+"Geographic information system" ,
+"Digital elevation model" ,
+"Time" ,
+"Geography" ,
+"Cartography" ,
+"Social sciences" ,
+"Space" ,
+"Sociology" 
+];
+var 周宜強 = [
+"Urban planning" ,
+"Land use planning" ,
+"Urban studies and planning" ,
+"Regional planning" ,
+"Geography" ,
+"Statistics" ,
+"Regression analysis" ,
+"Land use" 
+];
+var 賴美蓉 = [
+"Urban planning" ,
+"Urban decay" ,
+"Urban renewal" ,
+"Urban studies and planning" ,
+"Sustainability" ,
+"City" ,
+"The Death and Life of Great American Cities" ,
+"Redlining" 
+];
+var 徐逸祥 = [
+"Geographic information system" ,
+"Geography" ,
+"Geographic information science" ,
+"Spatial analysis" ,
+"Learning" ,
+"Machine learning" ,
+"Social sciences" ,
+"Scientific method" 
+];
+
+
+// 23 //
+
+var 艾嘉銘 = [
+"Road" ,
+"Tram accident" ,
+"Road transport" ,
+"Statistics" ,
+"Accidents" ,
+"Road accidents" 
+];
+var 李克聰 = [
+"Public transport" ,
+"Road" ,
+"Bus" ,
+"Road transport" ,
+"Sustainable transport" ,
+"Park and ride" ,
+"Traffic sign" ,
+"Transportation planning" 
+];
+var 曾柏興 = [
+"Cargo" ,
+"Intermodal freight transport" ,
+"Containerization" ,
+"Globalization" 
+];
+var 林大傑 = [
+"Transport" ,
+"Management" ,
+"Scientific method" ,
+"Intelligent transportation system" ,
+"Geographic information system" ,
+"Networks" ,
+"Vehicle" ,
+"Artificial intelligence" 
+];
+var 陳方元 = [
+"Cathay Pacific" ,
+"Airline" ,
+"Flag carrier" ,
+"Malaysia Airlines" ,
+"Oneworld" ,
+"Philippine Airlines" ,
+"Air New Zealand" ,
+"Cargo airline" 
+];
+var 溫傑華 = [
+"Transport" ,
+"Public transport" ,
+"Bus" ,
+"Transportation" ,
+"Congestion pricing" ,
+"Walking" ,
+"Marketing" ,
+"Logit" 
+];
+var 陳朝輝 = [
+"Transport" ,
+"Operations research" ,
+"Mathematics" ,
+"Network traffic simulation" ,
+"Verification and validation" ,
+"Simulation" ,
+"Public transport" ,
+"Verification and Validation" 
+];
+var 徐耀賜 = [
+"Bridge" ,
+"Civil engineering" ,
+"Structural engineering" ,
+"Road transport" ,
+"Road" ,
+"Structural steel" ,
+"Road accidents" ,
+"Earthquake engineering" 
+];
+var 楊宗璟 = [
+"Tram accident" ,
+"Road transport" ,
+"Road" ,
+"Accidents" 
+];
+var 葉名山 = [
+"Tram accident" ,
+"Road transport" ,
+"Accident" ,
+"Accidents" 
+];
+var 葉昭甫 = [
+"Public transport" ,
+"Bus" ,
+"Rapid transit" ,
+"Rail transport" ,
+"Sustainable transport" ,
+"Transport" ,
+"Airport" ,
+"Transportation planning" 
+];
+var 劉霈 = [
+"Tarmac" ,
+"Asphalt concrete" ,
+"Noise barrier" ,
+"Civil engineering" ,
+"Infrastructure" ,
+"Asphalt" ,
+"Roadway noise" ,
+"Noise pollution" 
+];
+var 吳沛儒 = [
+"Supply chain management" ,
+"Data analysis" ,
+"Logistics" ,
+"Management" ,
+"Supply chain" ,
+"Business intelligence" ,
+"Sustainability" 
+];
+var 林良泰 = [
+"Road" ,
+"Bus" ,
+"Traffic" ,
+"Road traffic management" ,
+"Public transport" ,
+"Bus rapid transit" ,
+"Taiwan Province" ,
+"Lane" 
+];
+
+
+// 24 //
+
+var 陳建元 = [
+"Economics" ,
+"Land use planning" ,
+"Cost" ,
+"Transaction cost" ,
+"Real estate" ,
+"Management" ,
+"Ronald Coase" ,
+"Microeconomics" 
+];
+var 何彥陞 = [
+"Law" ,
+"Regulation" ,
+"Ecology" ,
+"Administrative law" ,
+"Management" ,
+"Sustainability" ,
+"Agriculture" ,
+"Land management" 
+];
+
+var 李瑞陽 = [
+"Geographic information system" ,
+"Remote sensing" ,
+"Geography" ,
+"Decision support system" ,
+"Aerial photography" ,
+"Drainage basin" ,
+"Decision theory" ,
+"Image resolution" 
+];
+var 洪本善 = [
+"Cartography" ,
+"Geodesy" ,
+"Surveying" ,
+"Global Positioning System" ,
+"Map" ,
+"Geographic information system" ,
+"Navigation" ,
+"Topography" 
+];
+var 王珍玲 = [
+"Law" ,
+"Administrative law" ,
+"Regulation" ,
+"Real estate" ,
+"Constitution" ,
+"Property" ,
+"Statute" ,
+"Private law" 
+];
+var 楊賀雯 = [
+"Real estate" ,
+"Scientific method" ,
+"Quantitative research" ,
+"Research" ,
+"Social sciences" ,
+"Qualitative research" ,
+"Real estate investing" ,
+"Real property" 
+];
+var 楊龍士 = [
+"Geographic information system" ,
+"City" ,
+"Urban planning" ,
+"Land use planning" ,
+"Management" ,
+"Remote sensing" ,
+"Information systems" ,
+"Water" 
+];
+var 楊文燦 = [
+"Sociology" ,
+"Psychology" ,
+"Ecotourism" ,
+"Management" ,
+"Sustainability" ,
+"Tourism" ,
+"Mexico" ,
+"Ecology" 
+];
+var 林宗賢 = [
+"Tourism" ,
+"Recreation" ,
+"World Tourism Organization" 
+];
+var 謝靜琪 = [
+"Real estate" ,
+"Taichung County" ,
+"Taiwan Province" ,
+"Shopping mall" ,
+"Republic of China" ,
+"Tainan City" ,
+"Market" ,
+"Taichung" 
+];
+var 辛年豐 = [
+"Human rights" ,
+"Law" ,
+"Japan" ,
+"River" ,
+"Civil and political rights" ,
+"Environmental impact assessment" ,
+"Republic of China" ,
+"Rights" 
+];
+var 朱南玉 = [
+"Real estate" ,
+"Real estate appraisal" ,
+"Real estate investing" ,
+"Evaluation methods" ,
+"Case study" ,
+"Plan" ,
+"International real estate" ,
+"Scientific method" 
+];
+var 張梅英 = [
+"Real estate" ,
+"Management" ,
+"Real estate appraisal" ,
+"Real property" ,
+"Property" ,
+"Education" ,
+"Immovable property" ,
+"Fee simple" 
+];
+
+
+// 25 //
+
+
+var 李玲 = [
+"Chinese language" ,
+"Chinese character" ,
+"Kanji" ,
+"Hong Kong" ,
+"Classical Chinese" ,
+"Linguistics" ,
+"Standard Mandarin" ,
+"China" 
+];
+var 廖美玉 = [
+"Tang Dynasty" ,
+"Poetry" ,
+"Du Fu" ,
+"Chinese poetry" ,
+"Li" ,
+"Literature" ,
+"China" ,
+"Li Bai" 
+];
+var 宋建華 = [
+"Tang Dynasty" ,
+"Middle Chinese" ,
+"Greek loanwords" ,
+"Han Dynasty" ,
+"Ming Dynasty" ,
+"Linguistics" ,
+"China" ,
+"Song Dynasty" 
+];
+var 李威熊 = [
+"Confucianism" ,
+"Han Dynasty" ,
+"Mencius" ,
+"Tang Dynasty" ,
+"Confucius" ,
+"Han Chinese" ,
+"Chinese philosophy" ,
+"Neo-Confucianism" 
+];
+var 楊美美 = [
+"Chinese literature" ,
+"China" ,
+"Tang Dynasty" ,
+"Chinese philosophy" ,
+"Song Dynasty" ,
+"Middle Chinese" ,
+"Yuan Dynasty" ,
+"Ouyang Xiu" 
+];
+var 王祥齡 = [
+"Philosophy" ,
+"Aesthetics" ,
+"Georg Wilhelm Friedrich Hegel" ,
+"Immanuel Kant" ,
+"Benedetto Croce" ,
+"Art" ,
+"Greek loanwords" ,
+"David Hume" 
+];
+var 張瑞芬 = [
+"Literature" ,
+"History of literature" ,
+"Writing" ,
+"Literary theory" ,
+"Literary criticism" ,
+"China" ,
+"Han Chinese" ,
+"Standard Mandarin" 
+];
+var 鄭慧如 = [
+"Poetry" ,
+"Chinese poetry" ,
+"Literature" ,
+"Literature of Taiwan" ,
+"Chinese literature" ,
+"Linguistics" ,
+"Metaphor" ,
+"Shi" 
+];
+var 鐘文伶 = [
+"Poetry" ,
+"Drama" ,
+"Poetic form" ,
+"Iambic pentameter" ,
+"China" ,
+"Iamb" 
+];
+var 朱文光 = [
+"Culture" ,
+"Scientific method" ,
+"Linguistics" ,
+"Literature" ,
+"Vajrayana" ,
+"Anthropology" ,
+"Humanities" ,
+"Writing" 
+];
+var 余美玲 = [
+"Poetry" ,
+"Chinese language" ,
+"Chinese character" ,
+"Chinese art" ,
+"Standard Mandarin" ,
+"Vernacular Chinese" ,
+"Han Chinese" ,
+"Chinese poetry" 
+];
+var 林韻柔 = [
+"China" ,
+"Buddhism" ,
+"Tang Dynasty" ,
+"East Asia" ,
+"Taoism" ,
+"Gautama Buddha" ,
+"Korea" ,
+"Southern and Northern Dynasties" 
+];
+var 梁煌儀 = [
+"Novel" ,
+"Humanities" ,
+"Literature" ,
+"Poetry" ,
+"Fiction" ,
+"Art" ,
+"Classic" ,
+"Linguistics" 
+];
+
+
+// 26 //
+
+var 蔡明秀 = [
+"Translation" ,
+"Language interpretation" ,
+"Social sciences" ,
+"Linguistics" ,
+"Humanities" ,
+"Ralph Waldo Emerson" ,
+"English language" ,
+"Mark Twain" 
+];
+var 蔡依仁 = [
+"Drama" ,
+"Children's literature" ,
+"Research and development" ,
+"Literature" ,
+"Play" ,
+"Child" ,
+"Children" ,
+"Childhood" 
+];
+
+var 曾鹿鳴 = [
+"Risk" ,
+"Sales" ,
+"Business ethics" ,
+"Customer service" ,
+"Business" ,
+"Insurance" ,
+"Finance" ,
+"Economics" 
+];
+var 李麗秋 = [
+"England" ,
+"Scientific method" ,
+"Literature" ,
+"William Shakespeare" ,
+"Research" ,
+"Poetry" ,
+"Hart Crane" ,
+"Sonnet 18" 
+];
+var 沈薇薇 = [
+"Teaching English as a foreign language" ,
+"Foreign language" ,
+"Language education" ,
+"Linguistics" ,
+"English language" ,
+"Language school" ,
+"Applied linguistics" ,
+"Second language" 
+];
+var 黃舒屏 = [
+"Linguistics" ,
+"Semantics" ,
+"Language" ,
+"Semiotics" ,
+"Pragmatics" ,
+"Cognitive linguistics" ,
+"Taiwan" ,
+"Language family" 
+];
+var 郭毓芳 = [
+"Second language acquisition" ,
+"Linguistics" ,
+"Learning" ,
+"Education" ,
+"Psychology" ,
+"History of education" 
+];
+var 劉顯親 = [
+"Linguistics" ,
+"Education" ,
+"University" ,
+"Student" ,
+"Research and development" ,
+"Research" ,
+"Applied linguistics" ,
+"Science" 
+];
+var 廖咸浩 = [
+"Literature" ,
+"Poetry" ,
+"Literary theory" ,
+"Linguistics" ,
+"Film" ,
+"Modernism" ,
+"Translation" ,
+"Film theory" 
+];
+var 彭芳美 = [
+"Computer-assisted language learning" ,
+"Computer program" ,
+"Program" ,
+"Linguistics" ,
+"Program management" ,
+"The Program" ,
+"Composition studies" ,
+"Language education" 
+];
+var 薛孟仁 = [
+];
+var 周玉楨 = [
+"Linguistics" ,
+"Language acquisition" ,
+"Second language acquisition" ,
+"Educational psychology" ,
+"Language education" ,
+"Applied linguistics" ,
+"Learning" ,
+"Education" 
+];
+var 劉森堯 = [
+"Drama" ,
+"Film" ,
+"Fiction" ,
+"The French Lieutenant's Woman" ,
+"Translation" ,
+"Literature" ,
+"Mark Twain" ,
+"Novel" 
+];
+var 邱源貴 = [
+"England" ,
+"English language" ,
+"Middle English" ,
+"Geoffrey Chaucer" ,
+"Literature" ,
+"Renaissance" ,
+"Poetry" ,
+"English literature" 
+];
+var 羅珮瑄 = [
+"German language" ,
+"Spanish language" ,
+"Language" ,
+"Linguistics" ,
+"Spain" ,
+"Castilian Spanish" ,
+"Italian language" ,
+"French language" 
+];
+var 莊坤良 = [
+"United Kingdom" ,
+"Ireland" ,
+"Irish people" ,
+"English language" ,
+"English studies" ,
+"Teaching English as a foreign language" ,
+"Dublin" ,
+"James Joyce" 
+];
+
+
+// 27 //
+
+var 陳森松 = [
+"Insurance" ,
+"Risk management" ,
+"Risk" ,
+"Management" ,
+"Actuarial science" ,
+"Finance" ,
+"Law" ,
+"Property law" 
+];
+var 江朝 = [
+"Insurance" ,
+"Liability insurance" ,
+"Actuarial science" ,
+"Types of insurance" ,
+"Home insurance" ,
+"Business" ,
+"Financial reinsurance" 
+];
+var 江耕南 = [
+"Finance" ,
+"Bond" ,
+"Investment" ,
+"Capital" ,
+"Economics" ,
+"Rate of return" 
+];
+var 康裕民 = [
+"Business" ,
+"Organization" 
+];
+var 洪介偉 = [
+"Finance" ,
+"Risk management" ,
+"Stock market" ,
+"Risk" ,
+"Insurance" ,
+"Financial risk management" ,
+"Bond" ,
+"Investment" 
+];
+var 黃依潔 = [
+"Risk management" ,
+"Insurance" ,
+"Risk" ,
+"Actuarial science" ,
+"Management" ,
+"Self insurance" ,
+"Corporate finance" ,
+"Investment" 
+];
+var 吳瑞雲 = [
+"Insurance" ,
+"Casualty insurance" ,
+"Law" ,
+"Types of insurance" ,
+"Terrorism insurance" ,
+"Property insurance" 
+];
+var 張吉宏 = [
+"Economics" ,
+"Investment" ,
+"Actuarial science" ,
+"Capitalism" ,
+"Insurance" ,
+"Stock market" ,
+"Risk" ,
+"Home insurance" 
+];
+var 寶宏 = [
+"Management" ,
+"Business" ,
+"Insurance" ,
+"Business school" ,
+"Administration" ,
+"Actuary" ,
+"Actuarial science" ,
+"Public administration" 
+];
+var 許文彥 = [
+"Insurance" ,
+"Investment" ,
+"Risk management" ,
+"Actuarial science" ,
+"Economics" ,
+"Risk" ,
+"Casualty insurance" ,
+"Self insurance" 
+];
+var 賴志仁 = [
+"Risk management" ,
+"Insurance" ,
+"Risk" ,
+"Actuarial science" ,
+"Management" ,
+"Economics" ,
+"Investment" ,
+"Corporate finance" 
+];
+
+
+// 28 //
+
+var 陳麗君 = [
+"Security" ,
+"Bond" ,
+"Stock market" ,
+"Employee stock option" ,
+"Marketing" ,
+"Derivative" ,
+"Finance" ,
+"Decision analysis" 
+];
+var 姜寄南 = [
+"Finance" 
+];
+var 李君屏 = [
+"Finance" ,
+"Insurance" ,
+"Financial services" ,
+"Reinsurance" ,
+"Actuarial science" ,
+"Risk" ,
+"Risk management" ,
+"Catastrophe bond" 
+];
+var 簡正儀 = [
+"Stock market" ,
+"Economics terminology" ,
+"Finance" ,
+"Security" ,
+"Stock" ,
+"Speculation" ,
+"Economics" ,
+"Bond" 
+];
+var 廖東亮 = [
+"Stock market" ,
+"Investment" ,
+"Mutual fund" ,
+"Finance" ,
+"Bond" ,
+"Security" ,
+"Hedge fund" ,
+"Stock exchange" 
+];
+var 洪偉峰 = [
+"Stock market" ,
+"Finance" ,
+"Investment" ,
+"Economics" ,
+"Rate of return" ,
+"Mutual fund" ,
+"Hedge fund" ,
+"Corporate finance" 
+];
+var 林昆立 = [
+"Bank" ,
+"Bond" ,
+"Finance" ,
+"Management" ,
+"Risk" ,
+"Scientific method" ,
+"Corporate governance" ,
+"Investment" 
+];
+var 羅仙法 = [
+"Investment" ,
+"Economics" ,
+"Federal Reserve System" ,
+"Financial services" ,
+"Financial markets" ,
+"Stock market" ,
+"Pension fund" ,
+"Money" 
+];
+var 王韻怡 = [
+"Futures contract" ,
+"Financial markets" ,
+"Finance" ,
+"Economics" ,
+"Futures exchange" ,
+"Commodity Futures Trading Commission" ,
+"Investment" ,
+"Scientific method" 
+];
+var 陳清和 = [
+"Futures contract" ,
+"Dow Jones Industrial Average" 
+];
+var 劉炳麟 = [
+"Investment" ,
+"Risk" ,
+"Risk management" ,
+"Finance" ,
+"Economics" ,
+"Stock market" ,
+"Econometrics" ,
+"Mutual fund" 
+];
+var 楊明晶 = [
+"Risk" ,
+"Finance" ,
+"Debt" ,
+"Corporate finance" ,
+"Futures contract" ,
+"Arbitrage" ,
+"United States dollar" ,
+"Bond" 
+];
+var 王佳真 = [
+"Investment" ,
+"Collective investment scheme" ,
+"Stochastic volatility" ,
+"Financial services" ,
+"Finance" ,
+"Active management" ,
+"Option" ,
+"Investment management" 
+];
+var 馮詩蘋 = [
+"Economics" ,
+"Investment" ,
+"Risk management" ,
+"Risk" ,
+"Financial risk management" ,
+"Finance" ,
+"Management" ,
+"Financial risk" 
+];
+var 駱建陵 = [
+"Corporate finance" ,
+"Derivative" ,
+"Risk" ,
+"Debt" ,
+"Bond" ,
+"Security" ,
+"Risk management" ,
+"Operational risk" 
+];
+var 朱心蘅 = [
+"Finance" ,
+"Investment" ,
+"Personal finance" ,
+"Bond" ,
+"Capital budgeting" ,
+"Capital" ,
+"Risk" 
+];
+var 張倉耀 = [
+"Economics" ,
+"Stock market" ,
+"Autoregressive conditional heteroskedasticity" ,
+"Stock exchange" ,
+"People's Republic of China" ,
+"Business cycle" ,
+"Scientific method" ,
+"Unemployment" 
+];
+var 吳仰哲 = [
+"Risk" ,
+"Insurance" ,
+"Risk management" ,
+"Hedge" ,
+"Finance" ,
+"Actuarial science" ,
+"Economics" ,
+"Moral hazard" 
+];
+
+
+
+
+// 29 //
+
+var 曾勵新 = [
+"Algorithm" ,
+"Computer science" ,
+"Turing machine" ,
+"Discrete mathematics" ,
+"Theory of computation" ,
+"Computational geometry" ,
+"Computational complexity theory" 
+];
+var 林維鈞 = [
+"Scientific method" ,
+"Biological classification" ,
+"DNA microarray" ,
+"Medicine" ,
+"Linkage disequilibrium" ,
+"Genetic linkage" ,
+"Gene" ,
+"Statistics" 
+];
+var 林英志 = [
+"Algorithm" ,
+"Function" ,
+"Mathematics" ,
+"Derivative" ,
+"Computer science" ,
+"Augmented reality" ,
+"Graph of a function" ,
+"Leonhard Euler" 
+];
+var 林震燦 = [
+"Mathematics" ,
+"High school" ,
+"Chemistry" ,
+"Middle school" ,
+"College" ,
+"Secondary school" ,
+"Three-tier education" ,
+"Problem solving" 
+];
+var 黃新峰 = [
+"Mathematics" ,
+"Adobe Flash" ,
+"Geometry" ,
+"Differential equation" ,
+"Multimedia" ,
+"Linear algebra" ,
+"Analytic geometry" ,
+"Derivative" 
+];
+var 魏秀娟 = [
+"Mathematics" ,
+"Numerical analysis" ,
+"Computational science" ,
+"Computer science" ,
+"Computer simulation" ,
+"Deterministic system" ,
+"Mathematical model" ,
+"Dynamical system" 
+];
+var 陳子建 = [
+"Mathematics" ,
+"Partial differential equation" ,
+"Differential equation" ,
+"Derivative" ,
+"Adobe Flash" ,
+"Geometry" ,
+"Maxwell's equations" ,
+"Vector space" 
+];
+var 楊基源 = [
+"Mathematics" ,
+"Algebra" ,
+"Geometry" ,
+"Combinatorics" ,
+"Information theory" ,
+"Set theory" ,
+"Graph theory" ,
+"Probability theory" 
+];
+var 楊菁菁 = [
+"Regression analysis" ,
+"Statistics" ,
+"Mathematics" ,
+"Scientific method" ,
+"Nonparametric regression" ,
+"Data" ,
+"Sociology" ,
+"Applied mathematics" 
+];
+var 吳純純 = [
+"Statistics" ,
+"Regression analysis" ,
+"Mathematics" ,
+"Nonparametric regression" ,
+"Actuarial science" ,
+"Applied mathematics" ,
+"Scientific method" ,
+"Computer graphics" 
+];
+var 林彩玉 = [
+"Statistics" ,
+"Regression analysis" ,
+"Statistical inference" ,
+"Confidence interval" ,
+"Mathematics" ,
+"Statistical terminology" ,
+"Cost-effectiveness analysis" ,
+"Prediction interval" 
+];
+var 葉光清 = [
+"Graph theory" ,
+"Perfect graph" ,
+"Graph coloring" ,
+"Bipartite graph" ,
+"Mathematics" ,
+"Computer graphics" ,
+"Greedy coloring" ,
+"Planar graph" 
+];
+var 張桂芳 = [
+"Mathematics" ,
+"Problem solving" ,
+"Manifold" ,
+"Space" ,
+"Real number" ,
+"Physics" ,
+"Set theory" ,
+"Complex analysis" 
+];
+var 林姿均 = [
+"Group" ,
+"Invariant theory" ,
+"RSA" ,
+"Geometry" 
+];
+
+
+// 30 //
+
+var 陳建隆 = [
+"Pollution" ,
+"Sustainability" ,
+"Soil" ,
+"Water purification" ,
+"Water pollution" ,
+"Water" ,
+"Environmental remediation" ,
+"Sustainable development" 
+];
+var 陳志成 = [
+"Recycling" ,
+"Waste management" ,
+"Environmentalism" ,
+"Battery" ,
+"Waste" ,
+"Pollution" ,
+"Gasification" ,
+"Renewable energy" 
+];
+var 胡苔莉 = [
+"Bacteria" ,
+"Water" ,
+"Sewage treatment" ,
+"Nitrogen" ,
+"Water pollution" ,
+"Microbiology" ,
+"Wastewater" ,
+"Algae" 
+];
+var 馮秋霞 = [
+"Pollution" ,
+"Water" ,
+"Gas" ,
+"Diffusion" ,
+"Gases" ,
+"Volatile organic compound" ,
+"Boiling point" ,
+"Air pollution" 
+];
+var 黃東池 = [
+"Environmental science" ,
+"Air pollution" ,
+"Environment" ,
+"Environmentalism" ,
+"Sustainability" ,
+"Water" ,
+"Water quality" ,
+"Biodiversity" 
+];
+var 林俊德 = [
+"Water pollution" ,
+"Limited company" ,
+"Water" ,
+"Chemical engineering" ,
+"Natural environment" ,
+"Sewage treatment" ,
+"Corporation" ,
+"Environmentalism" 
+];
+var 李書安 = [
+"Respirator" ,
+"Air pollution" ,
+"Occupational safety and health" ,
+"Masks" ,
+"Surgical mask" ,
+"Indoor air quality" ,
+"Oxygen" ,
+"Climate" 
+];
+var 林秋裕 = [
+"Anaerobic digestion" ,
+"Hydrogen production" ,
+"Hydrogen" ,
+"Dark fermentation" ,
+"Nuclear power" ,
+"Landfill" ,
+"Energy development" ,
+"Fermentative hydrogen production" 
+];
+var 梁正中 = [
+"Air pollution" ,
+"Ozone" ,
+"Smog" ,
+"Environmentalism" ,
+"Pollution" ,
+"Coal" ,
+"Indoor air quality" ,
+"Air Quality Index" 
+];
+var 王唯匡 = [
+"Biology" ,
+"DNA" ,
+"Molecular biology" ,
+"Evolution" ,
+"Genetics" ,
+"Gene" ,
+"Charles Darwin" ,
+"Ecology" 
+];
+var 簡正一 = [
+"Toxicology" ,
+"Molecular biology" ,
+"DNA" ,
+"Chemistry" ,
+"Biology" ,
+"Risk management" ,
+"Risk assessment" ,
+"Pollution" 
+];
+var 童翔新 = [
+"Sustainability" ,
+"Pollution" ,
+"Water pollution" ,
+"Recycling" ,
+"Sustainable development" ,
+"Ecological economics" ,
+"Sewage treatment" ,
+"Natural capital" 
+];
+var 喻家駿 = [
+"Water pollution" ,
+"Solvent" ,
+"Supercritical fluid" ,
+"Carbon dioxide" ,
+"Oxygen" ,
+"Carbon" ,
+"Supercritical fluid extraction" ,
+"Water" 
+];
+var 任南琪 = [
+"Pollution prevention" ,
+"Environment" ,
+"Environmentalism" ,
+"Pollution" ,
+"Biodiversity" 
+];
+var 吳俊哲 = [
+"Hydrogen" ,
+"Water pollution" ,
+"Nitrogen" ,
+"Iron" ,
+"Wastewater" ,
+"Oxygen" ,
+"Electrochemistry" ,
+"Zinc" 
+];
+var 吳志超 = [
+"Water purification" ,
+"Water" ,
+"Water pollution" ,
+"Water supply" ,
+"Evaluation" ,
+"Chlorine" ,
+"Recycling" ,
+"Turbidity" 
+];
+var 張立德 = [
+"Air pollution" ,
+"Particulate" ,
+"Environmentalism" ,
+"Pollution" ,
+"United States Environmental Protection Agency" ,
+"Smog" ,
+"Health" ,
+"Indoor air quality" 
+];
+var TNejatVeziroglu = [
+"Nuclear power" ,
+"Water" ,
+"Energy" ,
+"Renewable energy" ,
+"Wind power" ,
+"Heat" ,
+"Peak oil" ,
+"Fossil fuel" 
+];
+
+
+
+
+// 31 //
+
+var 蔡健益 = [
+"Semiconductor" ,
+"Materials science" ,
+"Electromagnetic radiation" ,
+"Ultraviolet" ,
+"Ceramic engineering" ,
+"Wave" ,
+"Nanomaterials" ,
+"Light" 
+];
+var 陳錦山 = [
+"Thin film" ,
+"Sputtering" ,
+"Plasma" ,
+"Thin film solar cell" ,
+"Solar cell" ,
+"Research" ,
+"Oxygen" ,
+"Materials science" 
+];
+var 陳錦毅 = [
+"Oxygen" ,
+"Ceramic engineering" ,
+"Materials science" ,
+"Oxides" ,
+"Titanium dioxide" ,
+"Nanoparticle" ,
+"Carbon" ,
+"Solid" 
+];
+var 河合良信 = [
+"Crookes tube" ,
+"Electron" ,
+"Computer program" 
+];
+var 何主亮 = [
+"Solar cell" ,
+"Chemical vapor deposition" ,
+"Thin film" ,
+"Research" ,
+"Plasma" ,
+"Sputtering" ,
+"Research and development" ,
+"Titanium dioxide" 
+];
+var 金重勳 = [
+"Materials science" ,
+"Magnet" ,
+"Ferromagnetism" ,
+"Magnetism" ,
+"Iron" ,
+"Oxygen" ,
+"Magnetic field" ,
+"Lodestone" 
+];
+var 李立鼎 = [
+"Environment" ,
+"Polymer" ,
+"Polymer physics" ,
+"Physics" ,
+"Polymer science" ,
+"Science" ,
+"Environmentally friendly" ,
+"Natural environment" 
+];
+var 洪緯璿 = [
+"Energy" ,
+"Sun" ,
+"Energy conversion" ,
+"Condensed matter physics" ,
+"Light-emitting diode" ,
+"Solar energy" ,
+"Catalysis" ,
+"Solar cell" 
+];
+var 林昆明 = [
+"Metallurgy" ,
+"Shape memory alloy" ,
+"Alloys" ,
+"Corrosion" ,
+"Solder" ,
+"Pseudoelasticity" 
+];
+var 柯澤豪 = [
+"Carbon fiber" ,
+"Carbon" ,
+"Composite material" ,
+"Rechargeable battery" ,
+"Lithium-ion battery" ,
+"Lithium" ,
+"Materials science" ,
+"Pyrolysis" 
+];
+var 梁辰睿 = [
+"Electrochemistry" ,
+"Nitrogen" ,
+"Corrosion" ,
+"Catalysis" ,
+"Oxide" ,
+"Titanium" ,
+"Zinc" ,
+"Catalytic converter" 
+];
+var 田修波 = [
+"Metallurgy" ,
+"Stainless steel" ,
+"Materials science" 
+];
+var 王誠佑 = [
+"Hydrogen" ,
+"Hydrogen storage" ,
+"Carbon fiber" ,
+"Materials science" ,
+"Adsorption" ,
+"Metal-organic framework" ,
+"Carbon" ,
+"Catalysis" 
+];
+var 王致傑 = [
+"Lithium" ,
+"Titanium dioxide" ,
+"Hydrogen" ,
+"Oxide" ,
+"Rechargeable battery" ,
+"Lithium-ion battery" ,
+"Oxygen" ,
+"Lithium battery" 
+];
+var 邱國峰 = [
+"Lithium-ion battery" ,
+"Lithium" ,
+"Rechargeable battery" ,
+"Lithium battery" ,
+"Thin film" ,
+"Lithium iron phosphate battery" ,
+"Battery" ,
+"Nickel-metal hydride battery" 
+];
+var 張育誠 = [
+"Titanium dioxide" ,
+"Wafer" ,
+"Band gap" ,
+"Cadmium" ,
+"Germanium" ,
+"Solar cell" ,
+"Dye-sensitized solar cell" ,
+"Ultraviolet" 
+];
+var 駱榮富 = [
+"Solar cell" ,
+"Materials science" ,
+"Fuel cell" ,
+"Photonic crystal" ,
+"Crystal" ,
+"Ceramic materials" ,
+"Membrane electrode assembly" ,
+"Thin film solar cell" 
+];
+var YosiYShacham = [
+"Physics" ,
+"Chemistry" 
+];
+var 孫道中 = [
+"Steel" ,
+"Stainless steel" ,
+"Manganese" ,
+"Iron" ,
+"Metal" ,
+"Chromium" ,
+"Austenite" ,
+"Metallurgy" 
+];
+var 張志宇 = [
+"Solar cell" ,
+"Diode" ,
+"Engineering" ,
+"Germanium" ,
+"P-n junction" ,
+"Band gap" ,
+"Flexible electronics" ,
+"Technology" 
+];
+
+
+// 32 //
+
+var 蔡雅芝 = [
+"Nanotechnology" ,
+"Physics" ,
+"Light-emitting diode" ,
+"Maxwell's equations" ,
+"Condensed matter physics" ,
+"Photonic crystal" ,
+"Optical fiber" ,
+"Diode" 
+];
+var 胡水上 = [
+"Crystal" ,
+"Liquid crystal" ,
+"Crystal structure" ,
+"Matter" ,
+"Optics" ,
+"Book of Optics" ,
+"Crystal optics" ,
+"Liquid crystal display" 
+];
+var 陳敬恒 = [
+"Optical fiber" ,
+"Refractive index" ,
+"Light" ,
+"Optics" ,
+"Engineering" ,
+"Polarization" ,
+"Measurement" ,
+"Refraction" 
+];
+var 賴俊峰 = [
+"Light-emitting diode" ,
+"Lighting" ,
+"Optical fiber" ,
+"Diode" ,
+"Optics" ,
+"LEd" ,
+"Phosphor" ,
+"Luminous efficacy" 
+];
+var 李正中 = [
+"Thin film" ,
+"Thin-film optics" ,
+"Technology" ,
+"Engineering" ,
+"Chemical vapor deposition" ,
+"Science" ,
+"Film" ,
+"Light" 
+];
+var 李英德 = [
+"Chemistry" ,
+"Condensed matter physics" ,
+"Raman spectroscopy" ,
+"Raman scattering" ,
+"Physics" ,
+"Scattering" ,
+"Particle physics" ,
+"Carbon" 
+];
+var 李賜福 = [
+"Physics" ,
+"Electromagnetism" ,
+"Quantum mechanics" ,
+"Energy" ,
+"Light" ,
+"Applied mathematics" ,
+"Mathematics" ,
+"Science" 
+];
+var 劉榮平 = [
+"Holography" ,
+"Optics" ,
+"Diffraction" ,
+"Diffraction grating" ,
+"Digital holography" ,
+"Holographic data storage" ,
+"Coherence" ,
+"3D optical data storage" 
+];
+var 盧聖華 = [
+"Wave" ,
+"Optics" ,
+"Optical coherence tomography" ,
+"Interference" ,
+"Phase" ,
+"Coherence" ,
+"Diffraction" ,
+"Polarization" 
+];
+var 羅道正 = [
+"Electronic engineering" ,
+"Science" ,
+"Engineering" ,
+"Electronics" ,
+"Theory" 
+];
+var 羅仕守 = [
+"Solar cell" ,
+"Thin film solar cell" ,
+"Photovoltaics" ,
+"Nanomaterials" ,
+"Dye-sensitized solar cell" ,
+"Band gap" ,
+"Semiconductor" ,
+"Thin film" 
+];
+var 林泰生 = [
+"Spectroscopy" ,
+"Optics" ,
+"Light" ,
+"Electromagnetic radiation" ,
+"Molecule" ,
+"Physics" ,
+"Atom" ,
+"Book of Optics" 
+];
+var 林菲 = [
+"School" ,
+"Education" ,
+"College" ,
+"Teacher" ,
+"Higher education" ,
+"History of education" ,
+"Curriculum" ,
+"Course" 
+];
+var 唐謙仁 = [
+"Thin-film optics" ,
+"Sputtering" ,
+"Thin film" ,
+"Optical coating" ,
+"Materials science" ,
+"Coatings" ,
+"Thin film solar cell" ,
+"Anti-reflective coating" 
+];
+var 吳正文 = [
+"Optical fiber" ,
+"Refractive index" ,
+"Fiber-optic communication" ,
+"Laser" ,
+"Polarization" ,
+"Light" ,
+"Fiber laser" ,
+"Ray" 
+];
+var 葉建宏 = [
+"Optical fiber" ,
+"Laser" ,
+"Fiber-optic communication" ,
+"Laser diode" ,
+"Light-emitting diode" ,
+"Passive optical network" ,
+"Telecommunications network" ,
+"Optical communication" 
+];
+var 周哲仲 = [
+"Electromagnetic radiation" ,
+"Light" ,
+"Optical fiber" ,
+"Optics" ,
+"Polarization" ,
+"Spectroscopy" ,
+"Radar" ,
+"Absorption spectroscopy" 
+];
+var 林碩泰 = [
+"Laser" ,
+"Nonlinear optics" ,
+"Photonics" ,
+"Optics" ,
+"Light" ,
+"Quantum optics" ,
+"Optical fiber" ,
+"Refractive index" 
+];
+var 潘定中 = [
+"Diffraction" ,
+"Coherence" ,
+"Electronics" ,
+"Diffraction grating" ,
+"Holography" ,
+"Optics" ,
+"Digital holography" ,
+"Electrical engineering" 
+];
+var 馬仕信 = [
+"Light" ,
+"Optics" ,
+"Lighting" ,
+"Light-emitting diode" ,
+"Lens" ,
+"Color" ,
+"Optical fiber" ,
+"Energy" 
+];
+
+
+
+
