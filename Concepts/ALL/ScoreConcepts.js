@@ -479,3 +479,7 @@ TeacherCS = ND[TCS];
 //Why math.sum(鄭竹君16)/鄭竹君16.length-1 is equal - minus WTF....
 
 math.abs(math.sum(鄭竹君16)/鄭竹君16.length-1);   
+
+// After get Emothion score and Concept score use it
+
+math.sum(Emathion.Score, Concepts.Score);
