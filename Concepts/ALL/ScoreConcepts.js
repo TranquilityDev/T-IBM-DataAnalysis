@@ -475,4 +475,7 @@ TeacherCS = ND[TCS];
 }
 
 
+//Sum each teacher score with other teacher score by math.js
+//Why math.sum(鄭竹君16)/鄭竹君16.length-1 is equal - minus WTF....
 
+math.abs(math.sum(鄭竹君16)/鄭竹君16.length-1);   
