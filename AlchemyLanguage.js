@@ -1,6 +1,6 @@
 var AlchemyLanguageV1 = require('watson-developer-cloud/alchemy-language/v1');
 var alchemy_language = new AlchemyLanguageV1({
-  api_key: 'fcb11f5cebca4850ae9771ed0678ae4222d5733e'
+  api_key: 'MY-API'
 });
 
 
