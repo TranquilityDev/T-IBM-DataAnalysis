@@ -1,0 +1,89 @@
+var express = require('express');
+var AlchemyLanguageV1 = require('watson-developer-cloud/alchemy-language/v1');
+var alchemy_language = new AlchemyLanguageV1({
+  api_key: 'fcb11f5cebca4850ae9771ed0678ae4222d5733e'
+});
+
+
+var router = express.Router();
+
+router.get('/', function(req, res, next) {
+  res.render(
+		'ibm', { 
+			title: 'Tranquility-IBM',
+			TConceptR: ' ',		
+			TEmotionAnger: ' '
+			//TEmotionDisgust: ' ',	
+			//TEmotionFear: ' ',	
+			//TEmotionJoy: ' ',	
+			//TEmotionSadness: ' '		
+			});
+		});
+		
+		
+router.post('/', function(req, res) {
+    console.log(req.body.name);
+	var TData = {
+		text: req.body.name
+	};
+		alchemy_language.concepts(TData, function (err, ConceptsResponse) {
+			if (err)
+				return console.log('error:', err);
+			else
+				var AllConcepts = JSON.stringify(ConceptsResponse, null, 5);
+					var TCParse = JSON.parse(AllConcepts);
+					var TAllConcept = TCParse.concepts;
+					return res.render(
+							'ibm', { 
+								title: 'Tranquility-IBM',
+								TConceptR: TAllConcept[0].text,
+						});
+					
+					
+					
+		});
+		
+		alchemy_language.emotion(TData, function (err, EmotionResponse) {
+			if (err)
+				return console.log('error:', err);
+			else
+				var AllEmotion = JSON.stringify(EmotionResponse, null, 5);
+				var TEParse = JSON.parse(AllEmotion);
+				var TAllEmotion = TEParse.docEmotions;
+					var TEmotionanger = TAllEmotion.anger;
+					var TEmotionDisgust = TAllEmotion.disgust;
+					var TEmotionFear = TAllEmotion.fear;
+					var TEmotionJoy = TAllEmotion.joy;
+					var TEmotionSadness = TAllEmotion.sadness;
+				console.log(TEmotionanger);
+
+				return res.render(
+						'/', { 
+							TEmotionAnger: TEmotionanger,
+							TEmotionDisgust: TEmotionDisgust,
+							TEmotionFear: TEmotionFear,
+							TEmotionJoy: TEmotionJoy,
+							TEmotionSadness: TEmotionSadness
+						});
+
+		});
+		
+	});
+
+
+
+module.exports = router;
+
+*************************************************************************************************************
+
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (C:\TranquilityWeb\node_modules\express\lib\response.js:718:10)
+    at ServerResponse.send (C:\TranquilityWeb\node_modules\express\lib\response.js:163:12)
+    at done (C:\TranquilityWeb\node_modules\express\lib\response.js:957:10)
+    at View.exports.renderFile [as engine] (C:\TranquilityWeb\node_modules\ejs\lib\ejs.js:355:10)
+    at View.render (C:\TranquilityWeb\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\TranquilityWeb\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\TranquilityWeb\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\TranquilityWeb\node_modules\express\lib\response.js:961:7)
+    at C:\TranquilityWeb\app.js:63:7
